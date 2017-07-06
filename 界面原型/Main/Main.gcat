@@ -1,0 +1,67 @@
+<Catalogue
+	CID = "1"
+	NextCID = "2">
+	<Files
+		CID = "1">
+		<FileInfo
+			ID = "03E2E203-307A-4FB7-A60F838A10C88C16"
+			RelativePath = "import.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "import.gui"/>
+		<FileInfo
+			ID = "10AC7B9C-FE0A-451C-99E802AE23338915"
+			RelativePath = "detail.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "detail.gui"/>
+		<FileInfo
+			ID = "1E284456-A11E-4BD0-B2AFDD59165EA1B5"
+			RelativePath = "help.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "help.gui"/>
+		<FileInfo
+			ID = "20479528-DF0E-4AE8-86C6D590A141F6A2"
+			RelativePath = "about.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "about.gui"/>
+		<FileInfo
+			ID = "3AC03136-EC8D-4372-A96195B78AFCF2C9"
+			RelativePath = "source.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "source.gui"/>
+		<FileInfo
+			ID = "62D25418-6656-4871-B21B3B0F0C855E78"
+			RelativePath = "search.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "search.gui"/>
+		<FileInfo
+			ID = "7CFDC412-230D-4C43-B6D151D26C99B5E3"
+			RelativePath = "Main.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "Main.gui"/>
+		<FileInfo
+			ID = "A97C4952-8544-4A05-9964D29F459B67DB"
+			RelativePath = "sourceTable.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "sourceTable.gui"/>
+		<FileInfo
+			ID = "B2211940-63B0-40E0-A475FAD601A38AF4"
+			RelativePath = "DBM.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "FrameWin.gui"/>
+		<FileInfo
+			ID = "C519ABC0-E60C-40D6-9FAEB3DC6F7AD3D2"
+			RelativePath = "toolbar.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "toolbar.gui"/>
+		<FileInfo
+			ID = "C754B663-01EB-4919-AAE9748F6B2B2444"
+			RelativePath = "explore.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "explore.gui"/>
+		<FileInfo
+			ID = "D1E68B6B-0083-481B-BE787F25B98B7065"
+			RelativePath = "detailTable.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "detailTable.gui"/>
+	</Files>
+</Catalogue>

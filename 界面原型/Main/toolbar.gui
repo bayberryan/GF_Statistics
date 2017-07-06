@@ -1,0 +1,240 @@
+<Screen
+	CID = "188288562"
+	AppID = "2"
+	AppVer = "4.6.155.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "1869577086"
+			Type = "RibbonBarPanel"
+			X = "286"
+			Y = "81"
+			Width = "935"
+			Height = "92"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""/>
+		<Element
+			CID = "1869565402"
+			Type = "RibbonBarGroup"
+			X = "289"
+			Y = "84"
+			Width = "209"
+			Height = "86"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Mirror = "0"
+			HasOptions = "1"
+			Text = "数据管理"/>
+		<Element
+			CID = "1869550192"
+			Type = "IconButtonLarge"
+			X = "293"
+			Y = "89"
+			Width = "64"
+			Height = "64"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "数据注册"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "1869562911"
+			Type = "IconButtonLarge"
+			X = "362"
+			Y = "89"
+			Width = "64"
+			Height = "64"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "资源浏览"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "1869568363"
+			Type = "IconButtonLarge"
+			X = "426"
+			Y = "89"
+			Width = "64"
+			Height = "64"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "数据查询"
+			Text2 = "与管理"
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "1869570157"
+			Type = "RibbonBarGroup"
+			X = "498"
+			Y = "84"
+			Width = "136"
+			Height = "86"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Mirror = "0"
+			HasOptions = "1"
+			Text = "帮助信息"/>
+		<Element
+			CID = "1869571302"
+			Type = "IconButtonLarge"
+			X = "502"
+			Y = "89"
+			Width = "64"
+			Height = "64"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "帮助"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "1869545582"
+			Type = "IconButtonLarge"
+			X = "566"
+			Y = "89"
+			Width = "64"
+			Height = "64"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "关于"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "1869550250"
+			Type = "Icon"
+			X = "309"
+			Y = "92"
+			Width = "31"
+			Height = "32"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "icons\上传.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1869565547"
+			Type = "Icon"
+			X = "378"
+			Y = "95"
+			Width = "32"
+			Height = "32"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "icons\浏览.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1869553911"
+			Type = "Icon"
+			X = "442"
+			Y = "92"
+			Width = "31"
+			Height = "32"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "icons\查询.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1869561941"
+			Type = "Icon"
+			X = "518"
+			Y = "92"
+			Width = "32"
+			Height = "32"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "icons\帮助.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1869571047"
+			Type = "Icon"
+			X = "582"
+			Y = "93"
+			Width = "32"
+			Height = "31"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "icons\关于.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "188297983"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>
