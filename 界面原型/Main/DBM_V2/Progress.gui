@@ -1,0 +1,76 @@
+<Screen
+	CID = "1469263737"
+	AppID = "2"
+	AppVer = "4.6.155.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "1066693832"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "1066693832"
+			Type = "Rectangle"
+			X = "271"
+			Y = "228"
+			Width = "170"
+			Height = "84"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			HighlightColour = "250,250,250,0,21"
+			ShadowColour = "172,168,153,0,17"
+			FillColour = "234,242,251,0,37"
+			GradientColour = "172,168,153,0,17"
+			BorderColour = "28,81,128,0,7"
+			TextColour = "0,0,0,0,19"
+			Fill = "Solid"
+			Border = "Solid"
+			TextPlacement = "Top"
+			HorzAlign = "Left"
+			BorderDepth = "2"
+			BorderWidth = "0"
+			Text = ""
+			TextOutsideExtent = "1"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1646601561"
+			Type = "HorizontalProgressBar"
+			X = "286"
+			Y = "263"
+			Width = "120"
+			Height = "23"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			BackgroundColour = "236,233,216,0,16"
+			BarColour = "228,134,74,0,33"
+			BarStyle = "ProportionalSize"
+			HasInnerBorder = "0"
+			BarSize = "6"
+			AspectRatio = "0.625000"
+			Range = "100"
+			Progress = "50"/>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "1469277435"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

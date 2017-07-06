@@ -1,0 +1,294 @@
+<Screen
+	CID = "946564131"
+	AppID = "2"
+	AppVer = "4.6.155.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "1346306202"
+			Type = "Rectangle"
+			X = "612"
+			Y = "58"
+			Width = "256"
+			Height = "566"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			HighlightColour = "250,250,250,0,21"
+			ShadowColour = "172,168,153,0,17"
+			FillColour = "234,242,251,0,37"
+			GradientColour = "172,168,153,0,17"
+			BorderColour = "28,81,128,0,7"
+			TextColour = "0,0,0,0,19"
+			Fill = "Solid"
+			Border = "Solid"
+			TextPlacement = "Top"
+			HorzAlign = "Left"
+			BorderDepth = "2"
+			BorderWidth = "0"
+			Text = ""
+			TextOutsideExtent = "1"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1373438870"
+			Type = "RibbonBarButtonGroup"
+			X = "612"
+			Y = "58"
+			Width = "256"
+			Height = "21"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""/>
+		<Element
+			CID = "2094426411"
+			Type = "Tree"
+			X = "612"
+			Y = "79"
+			Width = "256"
+			Height = "545"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			TextColour = "0,0,0,0,9"
+			HighlightColour = "147,160,112,0,14"
+			HighlightTextColour = "255,255,255,0,15"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextItemID = "16"
+			IsDisabled = "0"
+			IsTransparent = "0"
+			HasBorder = "1"
+			HasButtons = "1"
+			HasLines = "1"
+			HasLinesAtRoot = "0"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "1"
+			Mirror = "0"
+			WordWrap = "0"
+			IconMargin = "0"
+			ItemHeight = "16"
+			Icons = "Folders"
+			SelectionHighlight = "Text">
+			<TreeItem
+				ItemID = "1"
+				Text = "专题一"
+				IsBold = "1"
+				IsItalic = "0"
+				IsChecked = "0"
+				IsExpanded = "1"
+				IsSelected = "0"
+				HasCustomTextColour = "0"
+				TextColour = "0,0,0,0,9">
+				<TreeItem
+					ItemID = "2"
+					Text = "基础地理信息数据"
+					IsBold = "1"
+					IsItalic = "0"
+					IsChecked = "0"
+					IsExpanded = "1"
+					IsSelected = "0"
+					HasCustomTextColour = "0"
+					TextColour = "0,0,0,0,9">
+					<TreeItem
+						ItemID = "5"
+						Text = "demo1.shp"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "1"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,9"/>
+					<TreeItem
+						ItemID = "6"
+						Text = "demo2.shp"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,9"/>
+				</TreeItem>
+				<TreeItem
+					ItemID = "3"
+					Text = "遥感影像数据"
+					IsBold = "1"
+					IsItalic = "0"
+					IsChecked = "0"
+					IsExpanded = "1"
+					IsSelected = "0"
+					HasCustomTextColour = "0"
+					TextColour = "0,0,0,0,9">
+					<TreeItem
+						ItemID = "7"
+						Text = "GF-1"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,9">
+						<Icon
+							RootPath = "$Application"
+							Filename = "Icons\Documents\FolderOpen.ico"
+							IconIndex = "0"/>
+					</TreeItem>
+					<TreeItem
+						ItemID = "12"
+						Text = "GF-2"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "1"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,9">
+						<Icon
+							RootPath = "$Application"
+							Filename = "Icons\Documents\FolderOpen.ico"
+							IconIndex = "0"/>
+					</TreeItem>
+					<TreeItem
+						ItemID = "13"
+						Text = "GF-3"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "1"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,9">
+						<Icon
+							RootPath = "$Application"
+							Filename = "Icons\Documents\FolderOpen.ico"
+							IconIndex = "0"/>
+					</TreeItem>
+					<TreeItem
+						ItemID = "14"
+						Text = "GF-4"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "1"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,9">
+						<Icon
+							RootPath = "$Application"
+							Filename = "Icons\Documents\FolderOpen.ico"
+							IconIndex = "0"/>
+					</TreeItem>
+					<TreeItem
+						ItemID = "15"
+						Text = "GF-5"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "1"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,9">
+						<Icon
+							RootPath = "$Application"
+							Filename = "Icons\Documents\FolderOpen.ico"
+							IconIndex = "0"/>
+					</TreeItem>
+				</TreeItem>
+				<TreeItem
+					ItemID = "4"
+					Text = "样本数据"
+					IsBold = "1"
+					IsItalic = "0"
+					IsChecked = "0"
+					IsExpanded = "1"
+					IsSelected = "0"
+					HasCustomTextColour = "0"
+					TextColour = "0,0,0,0,9">
+					<TreeItem
+						ItemID = "8"
+						Text = "demo1.shp"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,9"/>
+					<TreeItem
+						ItemID = "9"
+						Text = "demo2.shp"
+						IsBold = "0"
+						IsItalic = "0"
+						IsChecked = "0"
+						IsExpanded = "0"
+						IsSelected = "0"
+						HasCustomTextColour = "0"
+						TextColour = "0,0,0,0,9"/>
+				</TreeItem>
+			</TreeItem>
+		</Element>
+		<Element
+			CID = "1075408330"
+			Type = "StaticText"
+			X = "616"
+			Y = "59"
+			Width = "52"
+			Height = "21"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "数据资源"
+			IsDisabled = "0"
+			IsHyperlink = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1373454544"
+			Type = "Icon"
+			X = "848"
+			Y = "61"
+			Width = "16"
+			Height = "16"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Application"
+			Filename = "Icons\Miscellaneous\Pin.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "946541083"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

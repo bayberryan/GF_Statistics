@@ -1,69 +1,62 @@
 <Workspace
 	CID = "1"
 	NextCID = "2"
-	IconCategory = "Miscellaneous">
+	IconCategory = "Miscellaneous"
+	RecentIcon1 = "0,C:\Users\Public\Documents\GUI Design Studio\Icons\Documents\FolderOpen.ico"
+	RecentIcon2 = "0,C:\Users\Public\Documents\GUI Design Studio\Icons\Toolbars\FileNew.ico"
+	RecentIcon3 = "">
 	<OpenFiles
 		CID = "1"
-		LastActive = "12">
+		LastActive = "1">
 		<File
-			FileID = "B2211940-63B0-40E0-A475FAD601A38AF4"
+			FileID = "3729F433-AE30-4688-BB477D7A5FD5706D"
 			RootPath = "$Container"
-			RelativePathname = "DBM.gui"
+			RelativePathname = "DBM_V2\Main.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "C519ABC0-E60C-40D6-9FAEB3DC6F7AD3D2"
+			FileID = "5489E6F4-F9C9-45BB-BEF943A1097914A3"
 			RootPath = "$Container"
-			RelativePathname = "toolbar.gui"
+			RelativePathname = "DBM_V2\Toc.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "62D25418-6656-4871-B21B3B0F0C855E78"
+			FileID = "311A6468-49C9-4642-B933B06532D0ACE6"
 			RootPath = "$Container"
-			RelativePathname = "search.gui"
+			RelativePathname = "DBM_V2\RibionBar.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "03E2E203-307A-4FB7-A60F838A10C88C16"
+			FileID = "B1227B7A-C71B-4D75-A96EFEB2B751CF56"
 			RootPath = "$Container"
-			RelativePathname = "import.gui"
+			RelativePathname = "DBM_V2\map.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "C754B663-01EB-4919-AAE9748F6B2B2444"
+			FileID = "D25D62B1-0F5A-4EE6-A3DB61BFD0B026C5"
 			RootPath = "$Container"
-			RelativePathname = "explore.gui"
+			RelativePathname = "DBM_V2\QueryTable.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "20479528-DF0E-4AE8-86C6D590A141F6A2"
+			FileID = "5EE037B9-C883-4ABF-B6D18E0D822EB75E"
 			RootPath = "$Container"
-			RelativePathname = "about.gui"
+			RelativePathname = "DBM_V2\OpenSub.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "1E284456-A11E-4BD0-B2AFDD59165EA1B5"
+			FileID = "C685EC3C-1495-477A-8619D0BF098B5EF9"
 			RootPath = "$Container"
-			RelativePathname = "help.gui"
+			RelativePathname = "DBM_V2\NewSub.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "A97C4952-8544-4A05-9964D29F459B67DB"
+			FileID = "07F53253-CDEB-4752-886049A85675EDBD"
 			RootPath = "$Container"
-			RelativePathname = "sourceTable.gui"
+			RelativePathname = "DBM_V2\Progress.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "D1E68B6B-0083-481B-BE787F25B98B7065"
+			FileID = "D7403C67-1C7C-4F79-AD478552002F5332"
 			RootPath = "$Container"
-			RelativePathname = "detailTable.gui"
+			RelativePathname = "DBM_V2\Import.gui"
 			ViewSettings = ""/>
 		<File
-			FileID = "3AC03136-EC8D-4372-A96195B78AFCF2C9"
+			FileID = "DCF7B77C-0622-4D3C-8B9312416F39F2E1"
 			RootPath = "$Container"
-			RelativePathname = "source.gui"
-			ViewSettings = ""/>
-		<File
-			FileID = "10AC7B9C-FE0A-451C-99E802AE23338915"
-			RootPath = "$Container"
-			RelativePathname = "detail.gui"
-			ViewSettings = ""/>
-		<File
-			FileID = "7CFDC412-230D-4C43-B6D151D26C99B5E3"
-			RootPath = "$Container"
-			RelativePathname = "Main.gui"
+			RelativePathname = "DBM_V2\Query.gui"
 			ViewSettings = ""/>
 	</OpenFiles>
 </Workspace>

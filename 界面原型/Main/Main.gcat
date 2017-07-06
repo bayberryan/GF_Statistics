@@ -5,63 +5,113 @@
 		CID = "1">
 		<FileInfo
 			ID = "03E2E203-307A-4FB7-A60F838A10C88C16"
-			RelativePath = "import.gui"
+			RelativePath = "DBM_V1\import.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "import.gui"/>
 		<FileInfo
+			ID = "07F53253-CDEB-4752-886049A85675EDBD"
+			RelativePath = "DBM_V2\Progress.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\Progress.gui"/>
+		<FileInfo
 			ID = "10AC7B9C-FE0A-451C-99E802AE23338915"
-			RelativePath = "detail.gui"
+			RelativePath = "DBM_V1\detail.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "detail.gui"/>
 		<FileInfo
 			ID = "1E284456-A11E-4BD0-B2AFDD59165EA1B5"
-			RelativePath = "help.gui"
+			RelativePath = "DBM_V1\help.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "help.gui"/>
 		<FileInfo
 			ID = "20479528-DF0E-4AE8-86C6D590A141F6A2"
-			RelativePath = "about.gui"
+			RelativePath = "DBM_V1\about.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "about.gui"/>
 		<FileInfo
+			ID = "311A6468-49C9-4642-B933B06532D0ACE6"
+			RelativePath = "DBM_V2\RibionBar.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\RibionBar.gui"/>
+		<FileInfo
+			ID = "3729F433-AE30-4688-BB477D7A5FD5706D"
+			RelativePath = "DBM_V2\Main.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\Main.gui"/>
+		<FileInfo
 			ID = "3AC03136-EC8D-4372-A96195B78AFCF2C9"
-			RelativePath = "source.gui"
+			RelativePath = "DBM_V1\source.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "source.gui"/>
 		<FileInfo
+			ID = "5489E6F4-F9C9-45BB-BEF943A1097914A3"
+			RelativePath = "DBM_V2\Toc.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\Toc.gui"/>
+		<FileInfo
+			ID = "5EE037B9-C883-4ABF-B6D18E0D822EB75E"
+			RelativePath = "DBM_V2\OpenSub.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\OpenSub.gui"/>
+		<FileInfo
 			ID = "62D25418-6656-4871-B21B3B0F0C855E78"
-			RelativePath = "search.gui"
+			RelativePath = "DBM_V1\search.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "search.gui"/>
 		<FileInfo
 			ID = "7CFDC412-230D-4C43-B6D151D26C99B5E3"
-			RelativePath = "Main.gui"
+			RelativePath = "DBM_V1\Main.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "Main.gui"/>
 		<FileInfo
 			ID = "A97C4952-8544-4A05-9964D29F459B67DB"
-			RelativePath = "sourceTable.gui"
+			RelativePath = "DBM_V1\sourceTable.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "sourceTable.gui"/>
 		<FileInfo
+			ID = "B1227B7A-C71B-4D75-A96EFEB2B751CF56"
+			RelativePath = "DBM_V2\map.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\map.gui"/>
+		<FileInfo
 			ID = "B2211940-63B0-40E0-A475FAD601A38AF4"
-			RelativePath = "DBM.gui"
+			RelativePath = "DBM_V1\DBM.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "FrameWin.gui"/>
 		<FileInfo
 			ID = "C519ABC0-E60C-40D6-9FAEB3DC6F7AD3D2"
-			RelativePath = "toolbar.gui"
+			RelativePath = "DBM_V1\toolbar.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "toolbar.gui"/>
 		<FileInfo
+			ID = "C685EC3C-1495-477A-8619D0BF098B5EF9"
+			RelativePath = "DBM_V2\NewSub.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\NewSub.gui"/>
+		<FileInfo
 			ID = "C754B663-01EB-4919-AAE9748F6B2B2444"
-			RelativePath = "explore.gui"
+			RelativePath = "DBM_V1\explore.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "explore.gui"/>
 		<FileInfo
 			ID = "D1E68B6B-0083-481B-BE787F25B98B7065"
-			RelativePath = "detailTable.gui"
+			RelativePath = "DBM_V1\detailTable.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "detailTable.gui"/>
+		<FileInfo
+			ID = "D25D62B1-0F5A-4EE6-A3DB61BFD0B026C5"
+			RelativePath = "DBM_V2\QueryTable.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\QueryPanel.gui"/>
+		<FileInfo
+			ID = "D7403C67-1C7C-4F79-AD478552002F5332"
+			RelativePath = "DBM_V2\Import.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\Import.gui"/>
+		<FileInfo
+			ID = "DCF7B77C-0622-4D3C-8B9312416F39F2E1"
+			RelativePath = "DBM_V2\Query.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\Query.gui"/>
 	</Files>
 </Catalogue>

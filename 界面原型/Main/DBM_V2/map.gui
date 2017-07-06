@@ -1,0 +1,183 @@
+<Screen
+	CID = "715216123"
+	AppID = "2"
+	AppVer = "4.6.155.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "64174109"
+			Type = "Rectangle"
+			X = "1057"
+			Y = "9"
+			Width = "665"
+			Height = "403"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			HighlightColour = "250,250,250,0,21"
+			ShadowColour = "172,168,153,0,17"
+			FillColour = "234,242,251,0,37"
+			GradientColour = "172,168,153,0,17"
+			BorderColour = "28,81,128,0,7"
+			TextColour = "0,0,0,0,19"
+			Fill = "Solid"
+			Border = "Solid"
+			TextPlacement = "Top"
+			HorzAlign = "Left"
+			BorderDepth = "2"
+			BorderWidth = "0"
+			Text = ""
+			TextOutsideExtent = "1"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1681593292"
+			Type = "Bitmap"
+			X = "1057"
+			Y = "30"
+			Width = "665"
+			Height = "382"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "..\icons\map.bmp"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"
+			SliceLeft = "0"
+			SliceRight = "0"
+			SliceTop = "0"
+			SliceBottom = "0"/>
+		<Element
+			CID = "1013413470"
+			Type = "RibbonBarButtonGroup"
+			X = "1057"
+			Y = "9"
+			Width = "665"
+			Height = "21"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""/>
+		<Element
+			CID = "926842698"
+			Type = "Bitmap"
+			X = "1065"
+			Y = "11"
+			Width = "16"
+			Height = "16"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "..\icons\FullExtent.png"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"
+			SliceLeft = "0"
+			SliceRight = "0"
+			SliceTop = "0"
+			SliceBottom = "0"/>
+		<Element
+			CID = "926819248"
+			Type = "Bitmap"
+			X = "1086"
+			Y = "11"
+			Width = "16"
+			Height = "16"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "..\icons\Pan.png"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"
+			SliceLeft = "0"
+			SliceRight = "0"
+			SliceTop = "0"
+			SliceBottom = "0"/>
+		<Element
+			CID = "926841968"
+			Type = "Bitmap"
+			X = "1107"
+			Y = "11"
+			Width = "16"
+			Height = "16"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "..\icons\ZoomIn.png"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"
+			SliceLeft = "0"
+			SliceRight = "0"
+			SliceTop = "0"
+			SliceBottom = "0"/>
+		<Element
+			CID = "926832137"
+			Type = "Bitmap"
+			X = "1129"
+			Y = "11"
+			Width = "16"
+			Height = "16"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "..\icons\ZoomOut.png"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"
+			SliceLeft = "0"
+			SliceRight = "0"
+			SliceTop = "0"
+			SliceBottom = "0"/>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "715202698"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

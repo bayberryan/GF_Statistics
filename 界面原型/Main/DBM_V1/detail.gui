@@ -1,0 +1,509 @@
+<Screen
+	CID = "1247289677"
+	AppID = "2"
+	AppVer = "4.6.155.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "447828790"
+			Type = "Table"
+			X = "402"
+			Y = "120"
+			Width = "254"
+			Height = "567"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			HeaderBackgroundColour = "236,233,216,0,16"
+			HeaderBorderColour = "172,168,153,0,17"
+			HeaderTextColour = "0,0,0,0,19"
+			BackgroundColour = "172,168,153,0,13"
+			BorderColour = "164,185,127,0,12"
+			GridLineColour = "241,239,226,0,23"
+			SortedBlendColour = "64,64,64,0,0"
+			DefOddBackgroundColour = "255,255,255,0,6"
+			DefEvenBackgroundColour = "255,255,255,0,6"
+			DefTextColour = "0,0,0,0,9"
+			HighlightColour = "147,160,112,0,14"
+			HighlightTextColour = "255,255,255,0,15"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextColumnID = "3"
+			NextRowID = "14"
+			IsFlat = "0"
+			IsHeaderBold = "0"
+			IsTransparent = "0"
+			HasBorder = "1"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "0"
+			Mirror = "0"
+			HasHorzLines = "1"
+			HasVertLines = "1"
+			HasExtHorzLines = "0"
+			HasExtVertLines = "0"
+			ExtendColumnHeaders = "1"
+			ExtendColumns = "1"
+			ExtendRows = "1"
+			VariableHeightRows = "1"
+			HighlightSelections = "1"
+			FullRowSelection = "1"
+			HeaderWordWrap = "0"
+			WordWrap = "0"
+			HeaderSpace = "0"
+			HeaderHeight = "30"
+			RowHeight = "18"
+			FirstVisibleRow = "0"
+			FixedColumns = "0"
+			SortedColumn = "0"
+			ValueColumn = "0"
+			SortedBlendFactor = "0.000000"
+			ColumnSort = "Ascending"
+			HeaderStyle = "Standard"
+			FixedCellStyle = "SemiFlat">
+			<Columns>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "1"
+					Heading = "字段"
+					VisibleCondition = ""
+					Width = "80"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HighlightSelections = "1"
+					Type = "Text"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "2"
+					Heading = "值"
+					VisibleCondition = ""
+					Width = "60"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HighlightSelections = "1"
+					Type = "Text"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+			</Columns>
+			<Data>
+				<Row
+					RowID = "7"
+					IsSelected = "0">
+					<Cell>
+						数据编号
+					</Cell>
+					<Cell>
+						001
+					</Cell>
+				</Row>
+				<Row
+					RowID = "2"
+					IsSelected = "0">
+					<Cell>
+						数据名称
+					</Cell>
+					<Cell>
+						test1.tif
+					</Cell>
+				</Row>
+				<Row
+					RowID = "6"
+					IsSelected = "0">
+					<Cell>
+						数据格式
+					</Cell>
+					<Cell>
+						tif
+					</Cell>
+				</Row>
+				<Row
+					RowID = "8"
+					IsSelected = "0">
+					<Cell>
+						数据大小
+					</Cell>
+					<Cell>
+						700M
+					</Cell>
+				</Row>
+				<Row
+					RowID = "9"
+					IsSelected = "0">
+					<Cell>
+						空间范围
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					RowID = "3"
+					IsSelected = "0">
+					<Cell>
+						缩略图
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					RowID = "4"
+					IsSelected = "0">
+					<Cell>
+						卫星
+					</Cell>
+					<Cell>
+						GF-1
+					</Cell>
+				</Row>
+				<Row
+					RowID = "5"
+					IsSelected = "0">
+					<Cell>
+						传感器
+					</Cell>
+					<Cell>
+						WFV
+					</Cell>
+				</Row>
+				<Row
+					RowID = "11"
+					IsSelected = "0">
+					<Cell>
+						数据类别
+					</Cell>
+					<Cell>
+						原始数据
+					</Cell>
+				</Row>
+				<Row
+					RowID = "12"
+					IsSelected = "0">
+					<Cell>
+						数据日期
+					</Cell>
+					<Cell>
+						20170704
+					</Cell>
+				</Row>
+				<Row
+					RowID = "13"
+					IsSelected = "0">
+					<Cell>
+						入库时间
+					</Cell>
+					<Cell>
+						20170704
+					</Cell>
+				</Row>
+			</Data>
+		</Element>
+		<Element
+			CID = "447814502"
+			Type = "Rectangle"
+			X = "992"
+			Y = "110"
+			Width = "254"
+			Height = "567"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			HighlightColour = "250,250,250,0,21"
+			ShadowColour = "172,168,153,0,17"
+			FillColour = "236,233,216,0,16"
+			GradientColour = "172,168,153,0,17"
+			BorderColour = "28,81,128,0,7"
+			TextColour = "0,0,0,0,19"
+			Fill = "Solid"
+			Border = "Solid"
+			TextPlacement = "Top"
+			HorzAlign = "Left"
+			BorderDepth = "2"
+			BorderWidth = "2"
+			Text = ""
+			TextOutsideExtent = "1"
+			IsDisabled = "0"/>
+		<Element
+			CID = "447834490"
+			Type = "Table"
+			X = "992"
+			Y = "131"
+			Width = "254"
+			Height = "546"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			HeaderBackgroundColour = "236,233,216,0,16"
+			HeaderBorderColour = "172,168,153,0,17"
+			HeaderTextColour = "0,0,0,0,19"
+			BackgroundColour = "172,168,153,0,13"
+			BorderColour = "164,185,127,0,12"
+			GridLineColour = "241,239,226,0,23"
+			SortedBlendColour = "64,64,64,0,0"
+			DefOddBackgroundColour = "255,255,255,0,6"
+			DefEvenBackgroundColour = "255,255,255,0,6"
+			DefTextColour = "0,0,0,0,9"
+			HighlightColour = "147,160,112,0,14"
+			HighlightTextColour = "255,255,255,0,15"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			NextColumnID = "3"
+			NextRowID = "14"
+			IsFlat = "0"
+			IsHeaderBold = "0"
+			IsTransparent = "0"
+			HasBorder = "1"
+			HasHorzScrollBar = "0"
+			HasVertScrollBar = "0"
+			Mirror = "0"
+			HasHorzLines = "1"
+			HasVertLines = "1"
+			HasExtHorzLines = "0"
+			HasExtVertLines = "0"
+			ExtendColumnHeaders = "1"
+			ExtendColumns = "1"
+			ExtendRows = "1"
+			VariableHeightRows = "1"
+			HighlightSelections = "1"
+			FullRowSelection = "1"
+			HeaderWordWrap = "0"
+			WordWrap = "0"
+			HeaderSpace = "0"
+			HeaderHeight = "30"
+			RowHeight = "18"
+			FirstVisibleRow = "0"
+			FixedColumns = "0"
+			SortedColumn = "0"
+			ValueColumn = "0"
+			SortedBlendFactor = "0.000000"
+			ColumnSort = "Ascending"
+			HeaderStyle = "Standard"
+			FixedCellStyle = "SemiFlat">
+			<Columns>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "1"
+					Heading = "字段"
+					VisibleCondition = ""
+					Width = "80"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HighlightSelections = "1"
+					Type = "Text"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "2"
+					Heading = "值"
+					VisibleCondition = ""
+					Width = "60"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HighlightSelections = "1"
+					Type = "Text"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+			</Columns>
+			<Data>
+				<Row
+					RowID = "7"
+					IsSelected = "0">
+					<Cell>
+						数据编号
+					</Cell>
+					<Cell>
+						001
+					</Cell>
+				</Row>
+				<Row
+					RowID = "2"
+					IsSelected = "0">
+					<Cell>
+						数据名称
+					</Cell>
+					<Cell>
+						test1.tif
+					</Cell>
+				</Row>
+				<Row
+					RowID = "6"
+					IsSelected = "0">
+					<Cell>
+						数据格式
+					</Cell>
+					<Cell>
+						tif
+					</Cell>
+				</Row>
+				<Row
+					RowID = "8"
+					IsSelected = "0">
+					<Cell>
+						数据大小
+					</Cell>
+					<Cell>
+						700M
+					</Cell>
+				</Row>
+				<Row
+					RowID = "9"
+					IsSelected = "0">
+					<Cell>
+						空间范围
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					RowID = "3"
+					IsSelected = "0">
+					<Cell>
+						缩略图
+					</Cell>
+					<Cell>
+						
+					</Cell>
+				</Row>
+				<Row
+					RowID = "4"
+					IsSelected = "0">
+					<Cell>
+						卫星
+					</Cell>
+					<Cell>
+						GF-1
+					</Cell>
+				</Row>
+				<Row
+					RowID = "5"
+					IsSelected = "0">
+					<Cell>
+						传感器
+					</Cell>
+					<Cell>
+						WFV
+					</Cell>
+				</Row>
+				<Row
+					RowID = "11"
+					IsSelected = "0">
+					<Cell>
+						数据类别
+					</Cell>
+					<Cell>
+						原始数据
+					</Cell>
+				</Row>
+				<Row
+					RowID = "12"
+					IsSelected = "0">
+					<Cell>
+						数据日期
+					</Cell>
+					<Cell>
+						20170704
+					</Cell>
+				</Row>
+				<Row
+					RowID = "13"
+					IsSelected = "0">
+					<Cell>
+						入库时间
+					</Cell>
+					<Cell>
+						20170704
+					</Cell>
+				</Row>
+			</Data>
+		</Element>
+		<Element
+			CID = "447809152"
+			Type = "ControlBar"
+			X = "992"
+			Y = "110"
+			Width = "254"
+			Height = "21"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			TopEdge = "Flat"
+			BottotmEdge = "Flat"
+			LeftEdge = "Flat"
+			RightEdge = "Flat"/>
+		<Element
+			CID = "447834140"
+			Type = "StaticText"
+			X = "995"
+			Y = "110"
+			Width = "100"
+			Height = "21"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "详细信息"
+			IsDisabled = "0"
+			IsHyperlink = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3">
+		<Group
+			CID = "447835630"
+			Elements = "447834140,447809152,447834490,447814502"/>
+	</Groups>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "1247300946"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

@@ -1,5 +1,5 @@
 <Screen
-	CID = "1247289677"
+	CID = "1123246595"
 	AppID = "2"
 	AppVer = "4.6.155.0"
 	DocID = ""
@@ -12,12 +12,37 @@
 	<Elements
 		CID = "1">
 		<Element
-			CID = "915420346"
+			CID = "577329778"
+			Type = "Rectangle"
+			X = "328"
+			Y = "185"
+			Width = "666"
+			Height = "156"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			HighlightColour = "250,250,250,0,21"
+			ShadowColour = "172,168,153,0,17"
+			FillColour = "234,242,251,0,37"
+			GradientColour = "172,168,153,0,17"
+			BorderColour = "0,0,0,0,9"
+			TextColour = "0,0,0,0,19"
+			Fill = "Solid"
+			Border = "Solid"
+			TextPlacement = "Top"
+			HorzAlign = "Left"
+			BorderDepth = "2"
+			BorderWidth = "0"
+			Text = ""
+			TextOutsideExtent = "1"
+			IsDisabled = "0"/>
+		<Element
+			CID = "577337946"
 			Type = "Table"
-			X = "234"
-			Y = "32"
-			Width = "254"
-			Height = "567"
+			X = "328"
+			Y = "206"
+			Width = "666"
+			Height = "135"
 			Flags = "0"
 			UseDataTable = "0"
 			TableName = ""
@@ -36,14 +61,14 @@
 			Typeface = ""
 			FontAttributes = "0"
 			TextSize = "Normal"
-			NextColumnID = "3"
-			NextRowID = "14"
+			NextColumnID = "4"
+			NextRowID = "6"
 			IsFlat = "0"
 			IsHeaderBold = "0"
 			IsTransparent = "0"
 			HasBorder = "1"
-			HasHorzScrollBar = "0"
-			HasVertScrollBar = "0"
+			HasHorzScrollBar = "1"
+			HasVertScrollBar = "1"
 			Mirror = "0"
 			HasHorzLines = "1"
 			HasVertLines = "1"
@@ -58,7 +83,7 @@
 			HeaderWordWrap = "0"
 			WordWrap = "0"
 			HeaderSpace = "0"
-			HeaderHeight = "30"
+			HeaderHeight = "22"
 			RowHeight = "18"
 			FirstVisibleRow = "0"
 			FixedColumns = "0"
@@ -74,7 +99,7 @@
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
 					ColumnID = "1"
-					Heading = "字段"
+					Heading = "数据编号"
 					VisibleCondition = ""
 					Width = "80"
 					HeaderMargin = "0"
@@ -91,7 +116,24 @@
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
 					ColumnID = "2"
-					Heading = "值"
+					Heading = "数据名称"
+					VisibleCondition = ""
+					Width = "60"
+					HeaderMargin = "0"
+					CellMargin = "0"
+					HasCustomOddBgColour = "0"
+					HasCustomEvenBgColour = "0"
+					HasCustomTextColour = "0"
+					HighlightSelections = "1"
+					Type = "Text"
+					HeadingAlignment = "Left"
+					CellAlignment = "Left"/>
+				<ColumnItem
+					OddBackgroundColour = "255,255,255,0,6"
+					EvenBackgroundColour = "255,255,255,0,6"
+					TextColour = "0,0,0,0,9"
+					ColumnID = "3"
+					Heading = "缩略图"
 					VisibleCondition = ""
 					Width = "60"
 					HeaderMargin = "0"
@@ -106,50 +148,26 @@
 			</Columns>
 			<Data>
 				<Row
-					RowID = "7"
+					RowID = "1"
 					IsSelected = "0">
 					<Cell>
-						数据编号
+						
 					</Cell>
 					<Cell>
-						001
+						
+					</Cell>
+					<Cell>
+						
 					</Cell>
 				</Row>
 				<Row
 					RowID = "2"
 					IsSelected = "0">
 					<Cell>
-						数据名称
+						
 					</Cell>
 					<Cell>
-						test1.tif
-					</Cell>
-				</Row>
-				<Row
-					RowID = "6"
-					IsSelected = "0">
-					<Cell>
-						数据格式
-					</Cell>
-					<Cell>
-						tif
-					</Cell>
-				</Row>
-				<Row
-					RowID = "8"
-					IsSelected = "0">
-					<Cell>
-						数据大小
-					</Cell>
-					<Cell>
-						700M
-					</Cell>
-				</Row>
-				<Row
-					RowID = "9"
-					IsSelected = "0">
-					<Cell>
-						空间范围
+						
 					</Cell>
 					<Cell>
 						
@@ -159,7 +177,10 @@
 					RowID = "3"
 					IsSelected = "0">
 					<Cell>
-						缩略图
+						
+					</Cell>
+					<Cell>
+						
 					</Cell>
 					<Cell>
 						
@@ -169,54 +190,75 @@
 					RowID = "4"
 					IsSelected = "0">
 					<Cell>
-						卫星
+						
 					</Cell>
 					<Cell>
-						GF-1
+						
+					</Cell>
+					<Cell>
+						
 					</Cell>
 				</Row>
 				<Row
 					RowID = "5"
 					IsSelected = "0">
 					<Cell>
-						传感器
+						
 					</Cell>
 					<Cell>
-						WFV
-					</Cell>
-				</Row>
-				<Row
-					RowID = "11"
-					IsSelected = "0">
-					<Cell>
-						数据类别
+						
 					</Cell>
 					<Cell>
-						原始数据
-					</Cell>
-				</Row>
-				<Row
-					RowID = "12"
-					IsSelected = "0">
-					<Cell>
-						数据日期
-					</Cell>
-					<Cell>
-						20170704
-					</Cell>
-				</Row>
-				<Row
-					RowID = "13"
-					IsSelected = "0">
-					<Cell>
-						入库时间
-					</Cell>
-					<Cell>
-						20170704
+						
 					</Cell>
 				</Row>
 			</Data>
 		</Element>
+		<Element
+			CID = "2041328206"
+			Type = "RibbonBarButtonGroup"
+			X = "328"
+			Y = "185"
+			Width = "666"
+			Height = "21"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""/>
+		<Element
+			CID = "904865390"
+			Type = "StaticText"
+			X = "335"
+			Y = "186"
+			Width = "100"
+			Height = "21"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "查询结果"
+			IsDisabled = "0"
+			IsHyperlink = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1882471871"
+			Type = "Icon"
+			X = "974"
+			Y = "188"
+			Width = "16"
+			Height = "16"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Application"
+			Filename = "Icons\Miscellaneous\Pin.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
 	</Elements>
 	<Connections
 		CID = "2"/>
@@ -227,7 +269,7 @@
 	<Notes
 		CID = "5">
 		<Note
-			CID = "1247300946"
+			CID = "1123252221"
 			Name = "Description"
 			NextCID = "2">
 			<Text

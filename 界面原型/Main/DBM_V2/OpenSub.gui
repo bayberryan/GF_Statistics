@@ -1,0 +1,371 @@
+<Screen
+	CID = "1262121238"
+	AppID = "2"
+	AppVer = "4.6.155.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "2000950841"
+			Type = "FrameWindow"
+			X = "49"
+			Y = "42"
+			Width = "400"
+			Height = "300"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			WindowColour = "234,242,251,0,37"
+			Typeface = ""
+			FontAttributes = "1"
+			TextSize = "Normal"
+			Title = "打开专题"
+			TitleBarHeight = "18"
+			IconMargin = "0"
+			BorderSize = "1"
+			IsBorderless = "0"
+			IsActive = "1"
+			IsDocWindow = "0"
+			HasSunkenWindow = "1"
+			CentreText = "0"
+			UseMutedColours = "0"
+			Mirror = "0"
+			Buttons = "1"
+			Icon = ""/>
+		<Element
+			CID = "2000970718"
+			Type = "GroupBox"
+			X = "62"
+			Y = "74"
+			Width = "376"
+			Height = "257"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			TextColour = "0,0,0,0,9"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			TextPlacement = "None"
+			HorzAlign = "Left"
+			Text = "专题列表"
+			TextOutsideExtent = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "63207676"
+			Type = "IconButtonLarge"
+			X = "96"
+			Y = "122"
+			Width = "44"
+			Height = "63"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "专题一"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "63191082"
+			Type = "Icon"
+			X = "105"
+			Y = "125"
+			Width = "27"
+			Height = "32"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "..\icons\doc.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "63202686"
+			Type = "IconButtonLarge"
+			X = "179"
+			Y = "122"
+			Width = "44"
+			Height = "63"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "专题二"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "63202777"
+			Type = "Icon"
+			X = "188"
+			Y = "125"
+			Width = "27"
+			Height = "32"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "..\icons\doc.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "63189234"
+			Type = "IconButtonLarge"
+			X = "262"
+			Y = "122"
+			Width = "44"
+			Height = "63"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "专题三"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "63208348"
+			Type = "Icon"
+			X = "271"
+			Y = "125"
+			Width = "27"
+			Height = "32"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "..\icons\doc.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "63186546"
+			Type = "IconButtonLarge"
+			X = "348"
+			Y = "122"
+			Width = "44"
+			Height = "63"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "专题四"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "63183201"
+			Type = "Icon"
+			X = "357"
+			Y = "125"
+			Width = "27"
+			Height = "32"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "..\icons\doc.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1493263049"
+			Type = "IconButtonLarge"
+			X = "96"
+			Y = "215"
+			Width = "44"
+			Height = "63"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "专题五"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "1493242471"
+			Type = "Icon"
+			X = "105"
+			Y = "218"
+			Width = "27"
+			Height = "32"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "..\icons\doc.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1493238541"
+			Type = "IconButtonLarge"
+			X = "179"
+			Y = "215"
+			Width = "44"
+			Height = "63"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "专题六"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "1493266120"
+			Type = "Icon"
+			X = "188"
+			Y = "218"
+			Width = "27"
+			Height = "32"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "..\icons\doc.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1493270020"
+			Type = "IconButtonLarge"
+			X = "262"
+			Y = "215"
+			Width = "44"
+			Height = "63"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "专题七"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "1493268156"
+			Type = "Icon"
+			X = "271"
+			Y = "218"
+			Width = "27"
+			Height = "32"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "..\icons\doc.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "1493237821"
+			Type = "IconButtonLarge"
+			X = "348"
+			Y = "215"
+			Width = "44"
+			Height = "63"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "专题八"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "1493242862"
+			Type = "Icon"
+			X = "357"
+			Y = "218"
+			Width = "27"
+			Height = "32"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "..\icons\doc.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3">
+		<Group
+			CID = "63203947"
+			Elements = "63191082,63207676"/>
+		<Group
+			CID = "63188284"
+			Elements = "0"/>
+		<Group
+			CID = "63203503"
+			Elements = "63202686,63202777"/>
+		<Group
+			CID = "63207826"
+			Elements = "63189234,63208348"/>
+		<Group
+			CID = "63197287"
+			Elements = "63186546,63183201"/>
+		<Group
+			CID = "1493264046"
+			Elements = "1493263049,1493242471"/>
+		<Group
+			CID = "1493248426"
+			Elements = "1493238541,1493266120"/>
+		<Group
+			CID = "1493254385"
+			Elements = "1493270020,1493268156"/>
+		<Group
+			CID = "1493263509"
+			Elements = "1493237821,1493242862"/>
+	</Groups>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "1262105546"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>
