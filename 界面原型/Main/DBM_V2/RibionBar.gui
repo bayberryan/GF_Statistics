@@ -89,7 +89,7 @@
 			FontAttributes = "0"
 			TextSize = "Normal"
 			Text = "数据查询"
-			Text2 = "与管理"
+			Text2 = ""
 			HasDropDown = "0"
 			SplitButton = "0"
 			IsDisabled = "0"
@@ -113,8 +113,8 @@
 		<Element
 			CID = "78060176"
 			Type = "IconButtonLarge"
-			X = "1280"
-			Y = "131"
+			X = "859"
+			Y = "-12"
 			Width = "64"
 			Height = "64"
 			Flags = "2"
@@ -193,8 +193,8 @@
 		<Element
 			CID = "78060634"
 			Type = "Icon"
-			X = "1296"
-			Y = "134"
+			X = "875"
+			Y = "-9"
 			Width = "32"
 			Height = "32"
 			Flags = "3"
@@ -284,6 +284,88 @@
 			Filename = "..\icons\关于.ico"
 			IconIndex = "0"
 			IsDisabled = "0"/>
+		<Element
+			CID = "587466369"
+			Type = "RibbonBarGroup"
+			X = "1382"
+			Y = "222"
+			Width = "171"
+			Height = "86"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Mirror = "0"
+			HasOptions = "1"
+			Text = "系统配置"/>
+		<Element
+			CID = "22689171"
+			Type = "IconButtonLarge"
+			X = "1391"
+			Y = "227"
+			Width = "64"
+			Height = "64"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "数据库配置"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "22705194"
+			Type = "Icon"
+			X = "1407"
+			Y = "230"
+			Width = "31"
+			Height = "32"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "..\icons\设置.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
+		<Element
+			CID = "102578181"
+			Type = "IconButtonLarge"
+			X = "1465"
+			Y = "227"
+			Width = "72"
+			Height = "64"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "缓存目录配置"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "0"/>
+		<Element
+			CID = "102588467"
+			Type = "Icon"
+			X = "1486"
+			Y = "230"
+			Width = "31"
+			Height = "32"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			RootPath = "$Container"
+			Filename = "..\icons\还原.ico"
+			IconIndex = "0"
+			IsDisabled = "0"/>
 	</Elements>
 	<Connections
 		CID = "2"/>
@@ -295,6 +377,12 @@
 		<Group
 			CID = "614086670"
 			Elements = "78078963,78072478"/>
+		<Group
+			CID = "22687778"
+			Elements = "22689171,22705194"/>
+		<Group
+			CID = "102577770"
+			Elements = "102578181"/>
 	</Groups>
 	<SelectionGroups
 		CID = "4"/>

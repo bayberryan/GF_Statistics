@@ -14,6 +14,11 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "DBM_V2\Progress.gui"/>
 		<FileInfo
+			ID = "0E8BFF53-7110-4043-A71126D49CC79C5B"
+			RelativePath = "DBM_V2\DbSetting.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\DbSetting.gui"/>
+		<FileInfo
 			ID = "10AC7B9C-FE0A-451C-99E802AE23338915"
 			RelativePath = "DBM_V1\detail.gui"
 			OriginalRoot = "$Project"
@@ -59,10 +64,20 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "search.gui"/>
 		<FileInfo
+			ID = "6588DA1F-D383-4342-8BB59D41D14A501B"
+			RelativePath = "DBM_V2\SubTitle.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\SubTitle.gui"/>
+		<FileInfo
 			ID = "7CFDC412-230D-4C43-B6D151D26C99B5E3"
 			RelativePath = "DBM_V1\Main.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "Main.gui"/>
+		<FileInfo
+			ID = "A26E4BA1-9919-4E55-8DE7564EDE0DC5D8"
+			RelativePath = "DBM_V1\test.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V1\test.gui"/>
 		<FileInfo
 			ID = "A97C4952-8544-4A05-9964D29F459B67DB"
 			RelativePath = "DBM_V1\sourceTable.gui"
@@ -78,6 +93,11 @@
 			RelativePath = "DBM_V1\DBM.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "FrameWin.gui"/>
+		<FileInfo
+			ID = "B9F95815-C46C-4378-933A4F6D18A94737"
+			RelativePath = "DBM_V2\ConfirmExit.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\ConfirmSave.gui"/>
 		<FileInfo
 			ID = "C519ABC0-E60C-40D6-9FAEB3DC6F7AD3D2"
 			RelativePath = "DBM_V1\toolbar.gui"
@@ -113,5 +133,10 @@
 			RelativePath = "DBM_V2\Query.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "DBM_V2\Query.gui"/>
+		<FileInfo
+			ID = "F13C8ADE-8200-4CE6-8A36D584C68FC02D"
+			RelativePath = "DBM_V2\CachePath.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\CachePath.gui"/>
 	</Files>
 </Catalogue>

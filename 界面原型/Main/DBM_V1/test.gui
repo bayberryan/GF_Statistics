@@ -1,0 +1,266 @@
+<Screen
+	CID = "582162878"
+	AppID = "2"
+	AppVer = "4.6.155.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "1458385394"
+			Type = "FrameWindow"
+			X = "13"
+			Y = "-11"
+			Width = "745"
+			Height = "557"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			WindowColour = "172,168,153,0,13"
+			Typeface = ""
+			FontAttributes = "1"
+			TextSize = "Normal"
+			Title = "Dialog"
+			TitleBarHeight = "18"
+			IconMargin = "0"
+			BorderSize = "1"
+			IsBorderless = "0"
+			IsActive = "1"
+			IsDocWindow = "0"
+			HasSunkenWindow = "0"
+			CentreText = "0"
+			UseMutedColours = "0"
+			Mirror = "0"
+			Buttons = "17"
+			Icon = ""/>
+		<Element
+			CID = "1458392735"
+			Type = "FrameWindow"
+			X = "93"
+			Y = "731"
+			Width = "160"
+			Height = "175"
+			Flags = "0"
+			VisibleCondition = "222"
+			UseDataTable = "0"
+			TableName = ""
+			WindowColour = "172,168,153,0,13"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Title = "Mini Frame Window"
+			TitleBarHeight = "15"
+			IconMargin = "0"
+			BorderSize = "1"
+			IsBorderless = "0"
+			IsActive = "1"
+			IsDocWindow = "0"
+			HasSunkenWindow = "1"
+			CentreText = "0"
+			UseMutedColours = "0"
+			Mirror = "0"
+			Buttons = "1"
+			Icon = ""/>
+		<Element
+			CID = "1458378443"
+			Type = "FrameWindow"
+			X = "504"
+			Y = "684"
+			Width = "160"
+			Height = "175"
+			Flags = "0"
+			VisibleCondition = "111"
+			UseDataTable = "0"
+			TableName = ""
+			WindowColour = "172,168,153,0,13"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Title = "11111111111"
+			TitleBarHeight = "15"
+			IconMargin = "0"
+			BorderSize = "1"
+			IsBorderless = "0"
+			IsActive = "1"
+			IsDocWindow = "0"
+			HasSunkenWindow = "1"
+			CentreText = "0"
+			UseMutedColours = "0"
+			Mirror = "0"
+			Buttons = "1"
+			Icon = ""/>
+		<Element
+			CID = "1458375133"
+			Type = "StoryboardConditionalPanel"
+			X = "119"
+			Y = "54"
+			Width = "160"
+			Height = "120"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			BoxOffsetX = "380"
+			BoxOffsetY = "100">
+			<ConditionsBox
+				X = "499"
+				Y = "154"
+				Width = "171"
+				Height = "62"
+				Flags = "3"
+				UseDataTable = "0"
+				TableName = ""
+				NextItemID = "3">
+				<ScenarioItem
+					Name = "First Condition"
+					ItemID = "1"
+					Condition = "test &eq;&eq; &quot;111&quot;"/>
+				<ScenarioItem
+					Name = "Second Condition"
+					ItemID = "2"
+					Condition = "test &eq;&eq; &quot;222&quot;"/>
+			</ConditionsBox>
+		</Element>
+		<Element
+			CID = "1458379607"
+			Type = "StoryboardSetVariables"
+			X = "935"
+			Y = "210"
+			Width = "102"
+			Height = "46"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = "">
+			<SetVariablesItem
+				Name = "test"
+				Value = "111"/>
+		</Element>
+		<Element
+			CID = "1458404995"
+			Type = "StoryboardSetVariables"
+			X = "908"
+			Y = "93"
+			Width = "102"
+			Height = "46"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = "">
+			<SetVariablesItem
+				Name = "test"
+				Value = "222"/>
+		</Element>
+		<Element
+			CID = "1458390818"
+			Type = "TextButton"
+			X = "532"
+			Y = "49"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "111"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "1458383883"
+			Type = "TextButton"
+			X = "536"
+			Y = "98"
+			Width = "75"
+			Height = "23"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "222"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+	</Elements>
+	<Connections
+		CID = "2">
+		<Connection
+			CID = "1458389361"
+			Layer = "Storyboard"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitch"
+			SourceSubItemID = "1"
+			SourceRefID = "1458375133"
+			TargetRefID = "1458378443"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1458402192"
+			Layer = "Storyboard"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "ModelessSwitch"
+			SourceSubItemID = "2"
+			SourceRefID = "1458375133"
+			TargetRefID = "1458392735"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1458375216"
+			Layer = "Storyboard"
+			Trigger = "LeftClick"
+			Type = "SetVariables"
+			SubType = ""
+			SourceSubItemID = ""
+			SourceRefID = "1458390818"
+			TargetRefID = "1458379607"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1458402178"
+			Layer = "Storyboard"
+			Trigger = "LeftClick"
+			Type = "SetVariables"
+			SubType = ""
+			SourceSubItemID = ""
+			SourceRefID = "1458383883"
+			TargetRefID = "1458404995"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+	</Connections>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "582156393"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

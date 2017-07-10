@@ -70,7 +70,7 @@
 			Typeface = ""
 			FontAttributes = "0"
 			TextSize = "Normal"
-			Text = "专题一"
+			Text = "空白专题"
 			Text2 = ""
 			HasDropDown = "0"
 			SplitButton = "0"
@@ -103,7 +103,7 @@
 			Typeface = ""
 			FontAttributes = "0"
 			TextSize = "Normal"
-			Text = "专题二"
+			Text = "专题一"
 			Text2 = ""
 			HasDropDown = "0"
 			SplitButton = "0"
@@ -136,7 +136,7 @@
 			Typeface = ""
 			FontAttributes = "0"
 			TextSize = "Normal"
-			Text = "专题三"
+			Text = "专题二"
 			Text2 = ""
 			HasDropDown = "0"
 			SplitButton = "0"
@@ -169,7 +169,7 @@
 			Typeface = ""
 			FontAttributes = "0"
 			TextSize = "Normal"
-			Text = "专题四"
+			Text = "专题三"
 			Text2 = ""
 			HasDropDown = "0"
 			SplitButton = "0"
@@ -329,9 +329,6 @@
 		<Group
 			CID = "63203947"
 			Elements = "63191082,63207676"/>
-		<Group
-			CID = "63188284"
-			Elements = "0"/>
 		<Group
 			CID = "63203503"
 			Elements = "63202686,63202777"/>
