@@ -1,0 +1,97 @@
+<Screen
+	CID = "2050956976"
+	AppID = "2"
+	AppVer = "4.6.155.0"
+	DocID = ""
+	HasCanvas = "0"
+	Width = "640"
+	Height = "480"
+	NextCID = "6"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "1105863010"
+			Type = "HorizontalProgressBar"
+			X = "577"
+			Y = "193"
+			Width = "419"
+			Height = "26"
+			Flags = "0"
+			VariableName = "progress"
+			VisibleCondition = "progress&gt;0"
+			UseDataTable = "0"
+			TableName = ""
+			BackgroundColour = "236,233,216,0,16"
+			BarColour = "228,134,74,0,33"
+			BarStyle = "ProportionalSize"
+			HasInnerBorder = "1"
+			BarSize = "6"
+			AspectRatio = "0.625000"
+			Range = "100"
+			Progress = "0"/>
+		<Element
+			CID = "1105871984"
+			Type = "StaticText"
+			X = "715"
+			Y = "196"
+			Width = "137"
+			Height = "21"
+			Flags = "0"
+			VisibleCondition = "progress&gt;0 and progress&lt;100"
+			UseDataTable = "0"
+			TableName = ""
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "正在处理..."
+			IsDisabled = "0"
+			IsHyperlink = "0"
+			Fill = "None"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "1105882049"
+			Type = "StaticText"
+			X = "715"
+			Y = "197"
+			Width = "137"
+			Height = "21"
+			Flags = "0"
+			VisibleCondition = "progress&eq;100"
+			UseDataTable = "0"
+			TableName = ""
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "处理完成！"
+			IsDisabled = "0"
+			IsHyperlink = "0"
+			Fill = "None"
+			HorzAlign = "Centre"
+			VertAlign = "Centre"/>
+	</Elements>
+	<Connections
+		CID = "2"/>
+	<Groups
+		CID = "3"/>
+	<SelectionGroups
+		CID = "4"/>
+	<Notes
+		CID = "5">
+		<Note
+			CID = "2050975044"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

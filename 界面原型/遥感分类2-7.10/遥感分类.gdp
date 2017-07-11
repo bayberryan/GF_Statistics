@@ -1,0 +1,18 @@
+<Project
+	CID = "1"
+	NextCID = "4">
+	<Links
+		CID = "1"/>
+	<Options
+		CID = "2"/>
+	<PlugIns
+		CID = "3"
+		NextCID = "2">
+		<DocGenerators
+			CID = "1"
+			NextCID = "2">
+			<CS:DocGenHTML
+				CID = "1"/>
+		</DocGenerators>
+	</PlugIns>
+</Project>

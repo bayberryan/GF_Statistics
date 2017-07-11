@@ -4,10 +4,20 @@
 	<Files
 		CID = "1">
 		<FileInfo
+			ID = "0012EEF2-4775-459B-87B6F39F83E5F2FD"
+			RelativePath = "DBM_V2\SaveDialog.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\SaveDialog.gui"/>
+		<FileInfo
 			ID = "03E2E203-307A-4FB7-A60F838A10C88C16"
 			RelativePath = "DBM_V1\import.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "import.gui"/>
+		<FileInfo
+			ID = "0701E86E-F57E-43EB-8306C14611286953"
+			RelativePath = "icons\帮助.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\帮助.ico"/>
 		<FileInfo
 			ID = "07F53253-CDEB-4752-886049A85675EDBD"
 			RelativePath = "DBM_V2\Progress.gui"
@@ -24,40 +34,120 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "detail.gui"/>
 		<FileInfo
+			ID = "1491255A-05E3-45C1-9505B07A16C3BE6D"
+			RelativePath = "icons\选择要素.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\选择要素.png"/>
+		<FileInfo
+			ID = "1DABBFE1-4BC6-46C1-823DAC7A25D0EBDE"
+			RelativePath = "icons\upload.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\upload.png"/>
+		<FileInfo
 			ID = "1E284456-A11E-4BD0-B2AFDD59165EA1B5"
 			RelativePath = "DBM_V1\help.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "help.gui"/>
+		<FileInfo
+			ID = "1E919C43-249F-4830-B5C676B369366C71"
+			RelativePath = "icons\database.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\database.ico"/>
+		<FileInfo
+			ID = "20045B08-6678-46AF-99B2D5CA9D4154FA"
+			RelativePath = "icons\关于.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\关于.ico"/>
 		<FileInfo
 			ID = "20479528-DF0E-4AE8-86C6D590A141F6A2"
 			RelativePath = "DBM_V1\about.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "about.gui"/>
 		<FileInfo
+			ID = "26371CC9-3A40-477C-9A3BA38210800D88"
+			RelativePath = "DBM_V2\OpenDialog.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\Open.gui"/>
+		<FileInfo
+			ID = "286BD848-A665-4297-A6B725406FC4A8F3"
+			RelativePath = "icons\data_info.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\data_info.ico"/>
+		<FileInfo
+			ID = "2CF0779E-B0BC-426D-B261F03C0152DF11"
+			RelativePath = "icons\后一视图.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\后一视图.png"/>
+		<FileInfo
 			ID = "311A6468-49C9-4642-B933B06532D0ACE6"
 			RelativePath = "DBM_V2\RibionBar.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "DBM_V2\RibionBar.gui"/>
+		<FileInfo
+			ID = "370324F0-0CE9-4697-9C3BB7B4544488E1"
+			RelativePath = "icons\选择元素.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\选择元素.png"/>
 		<FileInfo
 			ID = "3729F433-AE30-4688-BB477D7A5FD5706D"
 			RelativePath = "DBM_V2\Main.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "DBM_V2\Main.gui"/>
 		<FileInfo
+			ID = "3ABA08B5-6DDC-409F-BC32DD3E7690868A"
+			RelativePath = "icons\缩小.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\缩小.png"/>
+		<FileInfo
 			ID = "3AC03136-EC8D-4372-A96195B78AFCF2C9"
 			RelativePath = "DBM_V1\source.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "source.gui"/>
+		<FileInfo
+			ID = "4053C99A-FCE2-409F-A82B467677D731FD"
+			RelativePath = "icons\保存.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\保存.png"/>
+		<FileInfo
+			ID = "4E1FA447-1998-4EFA-9E74F1DDBDAD265A"
+			RelativePath = "icons\data_search.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\data_search.ico"/>
+		<FileInfo
+			ID = "4F13F489-CEFB-4D59-B88D74C9164A0347"
+			RelativePath = "icons\query3.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\query3.bmp"/>
+		<FileInfo
+			ID = "51334191-4B97-49CE-B2C286E4CABA4A83"
+			RelativePath = "icons\查询.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\查询.ico"/>
 		<FileInfo
 			ID = "5489E6F4-F9C9-45BB-BEF943A1097914A3"
 			RelativePath = "DBM_V2\Toc.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "DBM_V2\Toc.gui"/>
 		<FileInfo
+			ID = "5EBFD937-5581-4889-B3AF7115088D31DD"
+			RelativePath = "icons\od_query condition.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\od_query condition.png"/>
+		<FileInfo
 			ID = "5EE037B9-C883-4ABF-B6D18E0D822EB75E"
 			RelativePath = "DBM_V2\OpenSub.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "DBM_V2\OpenSub.gui"/>
+		<FileInfo
+			ID = "5F3F9105-2A75-4F6A-AAA2B11D9AB278C4"
+			RelativePath = "icons\编辑.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\编辑.ico"/>
+		<FileInfo
+			ID = "60B10180-D823-4A7D-B5F7AA3C234E547F"
+			RelativePath = "icons\缩放到选择要素.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\缩放到选择要素.png"/>
 		<FileInfo
 			ID = "62D25418-6656-4871-B21B3B0F0C855E78"
 			RelativePath = "DBM_V1\search.gui"
@@ -69,15 +159,110 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "DBM_V2\SubTitle.gui"/>
 		<FileInfo
+			ID = "6C0A96E6-E618-44C1-ACBF5950F8FB16D3"
+			RelativePath = "icons\放大.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\放大.png"/>
+		<FileInfo
+			ID = "72F91EE9-CFA7-44BF-B40777FFEFB6E22A"
+			RelativePath = "icons\data_download.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\data_download.ico"/>
+		<FileInfo
 			ID = "7CFDC412-230D-4C43-B6D151D26C99B5E3"
 			RelativePath = "DBM_V1\Main.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "Main.gui"/>
 		<FileInfo
+			ID = "7DB660E5-ECD0-41E9-9513843910445E84"
+			RelativePath = "icons\new.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\new.ico"/>
+		<FileInfo
+			ID = "7DDEFC28-E24D-4642-888CEC30EA52D33E"
+			RelativePath = "icons\备份.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\备份.ico"/>
+		<FileInfo
+			ID = "7DE10ED3-F297-4A34-BEAC145F8BFAE74A"
+			RelativePath = "icons\doc.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\doc.ico"/>
+		<FileInfo
+			ID = "831380E4-0112-40CE-A412AB882148D5F9"
+			RelativePath = "icons\下载.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\下载.ico"/>
+		<FileInfo
+			ID = "83C012A8-D468-4EB5-B1E2A04FA025B95F"
+			RelativePath = "icons\识别.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\识别.png"/>
+		<FileInfo
+			ID = "864891CB-A50E-4407-AC4F710E090EE19D"
+			RelativePath = "icons\还原.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\还原.ico"/>
+		<FileInfo
+			ID = "87ADFF57-0B43-48F7-AB478845613C9949"
+			RelativePath = "icons\map.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\map.bmp"/>
+		<FileInfo
+			ID = "893A6F90-0A3F-404E-B883A95FD18DE44A"
+			RelativePath = "icons\ZoomOut.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\ZoomOut.png"/>
+		<FileInfo
+			ID = "8BFCB4CE-D260-4592-94BF2D0E185D8F96"
+			RelativePath = "icons\刷新.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\刷新.png"/>
+		<FileInfo
+			ID = "95E3CAF2-3942-43D8-A8F1D0CFF6BA6A33"
+			RelativePath = "icons\固定放大.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\固定放大.png"/>
+		<FileInfo
+			ID = "96ECED98-F3D2-4FE0-94392E206EE596DC"
+			RelativePath = "icons\setting.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\setting.png"/>
+		<FileInfo
+			ID = "9742F291-AAC7-4545-B08E8AB756143714"
+			RelativePath = "icons\data_upload.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\data_upload.ico"/>
+		<FileInfo
+			ID = "9DBD08E1-1F11-4F52-8D26C4BF3D989429"
+			RelativePath = "icons\固定缩小.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\固定缩小.png"/>
+		<FileInfo
+			ID = "9DE8920C-5496-4F2A-99B78F1D40018F3A"
+			RelativePath = "icons\query2.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\query2.bmp"/>
+		<FileInfo
 			ID = "A26E4BA1-9919-4E55-8DE7564EDE0DC5D8"
 			RelativePath = "DBM_V1\test.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "DBM_V1\test.gui"/>
+		<FileInfo
+			ID = "A2B689CB-4A5E-42EF-B6FF27BB322C0FB8"
+			RelativePath = "icons\卷帘.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\卷帘.png"/>
+		<FileInfo
+			ID = "A2E3FDDA-11E8-41FC-B2A3EBCE4A3D23DB"
+			RelativePath = "icons\load.gif"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\load.gif"/>
+		<FileInfo
+			ID = "A56CB6FE-6B27-44DA-AE27B10AECF9A1EB"
+			RelativePath = "icons\识别0.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\识别0.png"/>
 		<FileInfo
 			ID = "A97C4952-8544-4A05-9964D29F459B67DB"
 			RelativePath = "DBM_V1\sourceTable.gui"
@@ -94,15 +279,45 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "FrameWin.gui"/>
 		<FileInfo
+			ID = "B7A8E268-F2DC-479A-B7E805B89D5343EC"
+			RelativePath = "icons\ZoomIn.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\ZoomIn.png"/>
+		<FileInfo
 			ID = "B9F95815-C46C-4378-933A4F6D18A94737"
 			RelativePath = "DBM_V2\ConfirmExit.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "DBM_V2\ConfirmSave.gui"/>
 		<FileInfo
+			ID = "BD5908E9-0474-46F8-A7FCF187D969A4BC"
+			RelativePath = "icons\量测.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\量测.png"/>
+		<FileInfo
+			ID = "C17D87D8-B11A-49FF-9EC462840D78E387"
+			RelativePath = "icons\全图.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\全图.png"/>
+		<FileInfo
+			ID = "C2435DF8-E92B-4343-89DBB7B1E7DB29D1"
+			RelativePath = "icons\query1.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\query1.bmp"/>
+		<FileInfo
+			ID = "C3F99D2D-1790-4047-8213CD89C38D47EE"
+			RelativePath = "icons\设置.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\设置.ico"/>
+		<FileInfo
 			ID = "C519ABC0-E60C-40D6-9FAEB3DC6F7AD3D2"
 			RelativePath = "DBM_V1\toolbar.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "toolbar.gui"/>
+		<FileInfo
+			ID = "C63A97CC-6384-4CBC-A4143A0C33B84DB5"
+			RelativePath = "icons\Cache.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\Cache.png"/>
 		<FileInfo
 			ID = "C685EC3C-1495-477A-8619D0BF098B5EF9"
 			RelativePath = "DBM_V2\NewSub.gui"
@@ -114,6 +329,21 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "explore.gui"/>
 		<FileInfo
+			ID = "C8CFC045-AD12-4FB1-A0B6893A640542F6"
+			RelativePath = "icons\前一视图.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\前一视图.png"/>
+		<FileInfo
+			ID = "CA8FDA09-7706-42E9-855953C07ABC0A15"
+			RelativePath = "DBM_V2\Detail.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\Detail.gui"/>
+		<FileInfo
+			ID = "D121490A-69D0-411B-8AF2CBF04F0B0E06"
+			RelativePath = "icons\清除选择.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\清除选择.png"/>
+		<FileInfo
 			ID = "D1E68B6B-0083-481B-BE787F25B98B7065"
 			RelativePath = "DBM_V1\detailTable.gui"
 			OriginalRoot = "$Project"
@@ -124,19 +354,69 @@
 			OriginalRoot = "$Project"
 			OriginalPath = "DBM_V2\QueryPanel.gui"/>
 		<FileInfo
+			ID = "D3F76EDA-5BC8-465E-AE37C5FEA381BDFB"
+			RelativePath = "icons\logo.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\logo.ico"/>
+		<FileInfo
 			ID = "D7403C67-1C7C-4F79-AD478552002F5332"
 			RelativePath = "DBM_V2\Import.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "DBM_V2\Import.gui"/>
+		<FileInfo
+			ID = "DBC343F0-447D-4BBA-B059C3FA82F4F0E0"
+			RelativePath = "icons\FullExtent.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\FullExtent.png"/>
 		<FileInfo
 			ID = "DCF7B77C-0622-4D3C-8B9312416F39F2E1"
 			RelativePath = "DBM_V2\Query.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "DBM_V2\Query.gui"/>
 		<FileInfo
+			ID = "DE5BC1C1-CEA9-4546-8EEE976D9B50F7D1"
+			RelativePath = "icons\thumb.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\thumb.bmp"/>
+		<FileInfo
+			ID = "E12A192E-5D82-4CD4-A752A7840FC3F8A3"
+			RelativePath = "icons\上传.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\上传.ico"/>
+		<FileInfo
+			ID = "E24ED37D-3CD8-445A-A4746FB5096C3446"
+			RelativePath = "icons\漫游.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\漫游.png"/>
+		<FileInfo
+			ID = "EC2E59AA-06C6-4A27-9688F462E9BD7748"
+			RelativePath = "icons\加载数据.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\加载数据.png"/>
+		<FileInfo
+			ID = "EDE064C7-A9A2-4992-9841064C17D93BF1"
+			RelativePath = "Main.autosave"
+			OriginalRoot = "$Project"
+			OriginalPath = "Main.autosave"/>
+		<FileInfo
 			ID = "F13C8ADE-8200-4CE6-8A36D584C68FC02D"
 			RelativePath = "DBM_V2\CachePath.gui"
 			OriginalRoot = "$Project"
 			OriginalPath = "DBM_V2\CachePath.gui"/>
+		<FileInfo
+			ID = "F4F52D4E-CF04-4407-897615499C9E1D5E"
+			RelativePath = "DBM_V2\Welcome.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "DBM_V2\Welcome.gui"/>
+		<FileInfo
+			ID = "F7A687F0-B4EC-410B-BA07B4A0A7652136"
+			RelativePath = "icons\Pan.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\Pan.png"/>
+		<FileInfo
+			ID = "F95EC5AD-B91E-4759-B9C8433E3002C2B4"
+			RelativePath = "icons\浏览.ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "icons\浏览.ico"/>
 	</Files>
 </Catalogue>

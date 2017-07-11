@@ -66,10 +66,10 @@
 		<Element
 			CID = "232160361"
 			Type = "Rectangle"
-			X = "882"
+			X = "876"
 			Y = "70"
-			Width = "402"
-			Height = "569"
+			Width = "410"
+			Height = "566"
 			Flags = "0"
 			UseDataTable = "0"
 			TableName = ""
@@ -91,10 +91,10 @@
 		<Element
 			CID = "232134750"
 			Type = "Table"
-			X = "883"
-			Y = "104"
-			Width = "400"
-			Height = "534"
+			X = "876"
+			Y = "92"
+			Width = "410"
+			Height = "544"
 			Flags = "0"
 			UseDataTable = "0"
 			TableName = ""
@@ -324,12 +324,37 @@
 			TextOutsideExtent = "1"
 			IsDisabled = "0"/>
 		<Element
-			CID = "232154801"
+			CID = "232131643"
+			Type = "Rectangle"
+			X = "617"
+			Y = "70"
+			Width = "256"
+			Height = "566"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			HighlightColour = "250,250,250,0,21"
+			ShadowColour = "172,168,153,0,17"
+			FillColour = "234,242,251,0,37"
+			GradientColour = "172,168,153,0,17"
+			BorderColour = "0,0,0,0,9"
+			TextColour = "0,0,0,0,19"
+			Fill = "Solid"
+			Border = "Solid"
+			TextPlacement = "Top"
+			HorzAlign = "Left"
+			BorderDepth = "2"
+			BorderWidth = "1"
+			Text = ""
+			TextOutsideExtent = "1"
+			IsDisabled = "0"/>
+		<Element
+			CID = "232142746"
 			Type = "Table"
-			X = "1290"
-			Y = "71"
-			Width = "254"
-			Height = "567"
+			X = "617"
+			Y = "92"
+			Width = "256"
+			Height = "544"
 			Flags = "0"
 			UseDataTable = "0"
 			TableName = ""
@@ -348,8 +373,8 @@
 			Typeface = ""
 			FontAttributes = "0"
 			TextSize = "Normal"
-			NextColumnID = "3"
-			NextRowID = "14"
+			NextColumnID = "4"
+			NextRowID = "20"
 			IsFlat = "0"
 			IsHeaderBold = "0"
 			IsTransparent = "0"
@@ -385,241 +410,10 @@
 					OddBackgroundColour = "255,255,255,0,6"
 					EvenBackgroundColour = "255,255,255,0,6"
 					TextColour = "0,0,0,0,9"
-					ColumnID = "1"
-					Heading = "字段"
-					VisibleCondition = ""
-					Width = "80"
-					HeaderMargin = "0"
-					CellMargin = "0"
-					HasCustomOddBgColour = "0"
-					HasCustomEvenBgColour = "0"
-					HasCustomTextColour = "0"
-					HighlightSelections = "1"
-					Type = "Text"
-					HeadingAlignment = "Left"
-					CellAlignment = "Left"/>
-				<ColumnItem
-					OddBackgroundColour = "255,255,255,0,6"
-					EvenBackgroundColour = "255,255,255,0,6"
-					TextColour = "0,0,0,0,9"
-					ColumnID = "2"
-					Heading = "值"
-					VisibleCondition = ""
-					Width = "60"
-					HeaderMargin = "0"
-					CellMargin = "0"
-					HasCustomOddBgColour = "0"
-					HasCustomEvenBgColour = "0"
-					HasCustomTextColour = "0"
-					HighlightSelections = "1"
-					Type = "Text"
-					HeadingAlignment = "Left"
-					CellAlignment = "Left"/>
-			</Columns>
-			<Data>
-				<Row
-					RowID = "7"
-					IsSelected = "0">
-					<Cell>
-						数据编号
-					</Cell>
-					<Cell>
-						001
-					</Cell>
-				</Row>
-				<Row
-					RowID = "2"
-					IsSelected = "0">
-					<Cell>
-						数据名称
-					</Cell>
-					<Cell>
-						test1.tif
-					</Cell>
-				</Row>
-				<Row
-					RowID = "6"
-					IsSelected = "0">
-					<Cell>
-						数据格式
-					</Cell>
-					<Cell>
-						tif
-					</Cell>
-				</Row>
-				<Row
-					RowID = "8"
-					IsSelected = "0">
-					<Cell>
-						数据大小
-					</Cell>
-					<Cell>
-						700M
-					</Cell>
-				</Row>
-				<Row
-					RowID = "9"
-					IsSelected = "0">
-					<Cell>
-						空间范围
-					</Cell>
-					<Cell>
-						
-					</Cell>
-				</Row>
-				<Row
-					RowID = "3"
-					IsSelected = "0">
-					<Cell>
-						缩略图
-					</Cell>
-					<Cell>
-						
-					</Cell>
-				</Row>
-				<Row
-					RowID = "4"
-					IsSelected = "0">
-					<Cell>
-						卫星
-					</Cell>
-					<Cell>
-						GF-1
-					</Cell>
-				</Row>
-				<Row
-					RowID = "5"
-					IsSelected = "0">
-					<Cell>
-						传感器
-					</Cell>
-					<Cell>
-						WFV
-					</Cell>
-				</Row>
-				<Row
-					RowID = "11"
-					IsSelected = "0">
-					<Cell>
-						数据类别
-					</Cell>
-					<Cell>
-						原始数据
-					</Cell>
-				</Row>
-				<Row
-					RowID = "12"
-					IsSelected = "0">
-					<Cell>
-						数据日期
-					</Cell>
-					<Cell>
-						20170704
-					</Cell>
-				</Row>
-				<Row
-					RowID = "13"
-					IsSelected = "0">
-					<Cell>
-						入库时间
-					</Cell>
-					<Cell>
-						20170704
-					</Cell>
-				</Row>
-			</Data>
-		</Element>
-		<Element
-			CID = "232131643"
-			Type = "Rectangle"
-			X = "617"
-			Y = "70"
-			Width = "260"
-			Height = "569"
-			Flags = "0"
-			UseDataTable = "0"
-			TableName = ""
-			HighlightColour = "250,250,250,0,21"
-			ShadowColour = "172,168,153,0,17"
-			FillColour = "236,233,216,0,16"
-			GradientColour = "172,168,153,0,17"
-			BorderColour = "0,0,0,0,9"
-			TextColour = "0,0,0,0,19"
-			Fill = "Solid"
-			Border = "Solid"
-			TextPlacement = "Top"
-			HorzAlign = "Left"
-			BorderDepth = "2"
-			BorderWidth = "1"
-			Text = ""
-			TextOutsideExtent = "1"
-			IsDisabled = "0"/>
-		<Element
-			CID = "232142746"
-			Type = "Table"
-			X = "619"
-			Y = "71"
-			Width = "256"
-			Height = "567"
-			Flags = "0"
-			UseDataTable = "0"
-			TableName = ""
-			HeaderBackgroundColour = "234,242,251,0,37"
-			HeaderBorderColour = "172,168,153,0,17"
-			HeaderTextColour = "0,0,0,0,19"
-			BackgroundColour = "172,168,153,0,13"
-			BorderColour = "164,185,127,0,12"
-			GridLineColour = "241,239,226,0,23"
-			SortedBlendColour = "64,64,64,0,0"
-			DefOddBackgroundColour = "255,255,255,0,6"
-			DefEvenBackgroundColour = "255,255,255,0,6"
-			DefTextColour = "0,0,0,0,9"
-			HighlightColour = "147,160,112,0,14"
-			HighlightTextColour = "255,255,255,0,15"
-			Typeface = ""
-			FontAttributes = "0"
-			TextSize = "Normal"
-			NextColumnID = "3"
-			NextRowID = "14"
-			IsFlat = "0"
-			IsHeaderBold = "0"
-			IsTransparent = "0"
-			HasBorder = "1"
-			HasHorzScrollBar = "0"
-			HasVertScrollBar = "0"
-			Mirror = "0"
-			HasHorzLines = "1"
-			HasVertLines = "1"
-			HasExtHorzLines = "0"
-			HasExtVertLines = "0"
-			ExtendColumnHeaders = "1"
-			ExtendColumns = "1"
-			ExtendRows = "1"
-			VariableHeightRows = "1"
-			HighlightSelections = "1"
-			FullRowSelection = "1"
-			HeaderWordWrap = "0"
-			WordWrap = "0"
-			HeaderSpace = "0"
-			HeaderHeight = "30"
-			RowHeight = "18"
-			FirstVisibleRow = "0"
-			FixedColumns = "0"
-			SortedColumn = "1"
-			ValueColumn = "0"
-			SortedBlendFactor = "0.000000"
-			ColumnSort = "Descending"
-			HeaderStyle = "Standard"
-			FixedCellStyle = "SemiFlat">
-			<Columns>
-				<ColumnItem
-					OddBackgroundColour = "255,255,255,0,6"
-					EvenBackgroundColour = "255,255,255,0,6"
-					TextColour = "0,0,0,0,9"
-					ColumnID = "1"
+					ColumnID = "3"
 					Heading = "数据类别"
 					VisibleCondition = ""
-					Width = "379"
+					Width = "321"
 					HeaderMargin = "0"
 					CellMargin = "0"
 					HasCustomOddBgColour = "0"
@@ -632,139 +426,47 @@
 			</Columns>
 			<Data>
 				<Row
-					RowID = "3"
+					RowID = "15"
 					IsSelected = "0">
 					<Cell>
 						遥感影像数据
 					</Cell>
 				</Row>
 				<Row
-					RowID = "9"
+					RowID = "16"
 					IsSelected = "0">
 					<Cell>
 						分类产品数据
 					</Cell>
 				</Row>
 				<Row
-					RowID = "11"
-					IsSelected = "0">
-					<Cell>
-						样本数据
-					</Cell>
-				</Row>
-				<Row
-					RowID = "7"
+					RowID = "17"
 					IsSelected = "0">
 					<Cell>
 						基础地理信息数据
 					</Cell>
 				</Row>
 				<Row
-					RowID = "1"
+					RowID = "18"
 					IsSelected = "0">
 					<Cell>
-						
+						样本数据
+					</Cell>
+				</Row>
+				<Row
+					RowID = "19"
+					IsSelected = "0">
+					<Cell>
+						文档数据
 					</Cell>
 				</Row>
 			</Data>
 		</Element>
 		<Element
-			CID = "233181941"
-			Type = "TextButton"
-			X = "888"
-			Y = "76"
-			Width = "55"
-			Height = "23"
-			Flags = "0"
-			UseDataTable = "0"
-			TableName = ""
-			TextColour = "0,0,0,0,19"
-			Typeface = ""
-			FontAttributes = "0"
-			TextSize = "Normal"
-			Text = "选择文件"
-			Depth = "2"
-			IsDefault = "0"
-			IsDisabled = "0"
-			MarginLeft = "0"
-			MarginRight = "0"
-			MarginTop = "0"
-			MarginBottom = "0"
-			AutoNavType = ""/>
-		<Element
-			CID = "233182255"
-			Type = "TextButton"
-			X = "950"
-			Y = "76"
-			Width = "30"
-			Height = "23"
-			Flags = "0"
-			UseDataTable = "0"
-			TableName = ""
-			TextColour = "0,0,0,0,19"
-			Typeface = ""
-			FontAttributes = "0"
-			TextSize = "Normal"
-			Text = "全选"
-			Depth = "2"
-			IsDefault = "0"
-			IsDisabled = "0"
-			MarginLeft = "0"
-			MarginRight = "0"
-			MarginTop = "0"
-			MarginBottom = "0"
-			AutoNavType = ""/>
-		<Element
-			CID = "233182098"
-			Type = "TextButton"
-			X = "988"
-			Y = "76"
-			Width = "30"
-			Height = "23"
-			Flags = "0"
-			UseDataTable = "0"
-			TableName = ""
-			TextColour = "0,0,0,0,19"
-			Typeface = ""
-			FontAttributes = "0"
-			TextSize = "Normal"
-			Text = "反选"
-			Depth = "2"
-			IsDefault = "0"
-			IsDisabled = "0"
-			MarginLeft = "0"
-			MarginRight = "0"
-			MarginTop = "0"
-			MarginBottom = "0"
-			AutoNavType = ""/>
-		<Element
-			CID = "233182565"
-			Type = "TextButton"
-			X = "1025"
-			Y = "76"
-			Width = "30"
-			Height = "23"
-			Flags = "0"
-			UseDataTable = "0"
-			TableName = ""
-			TextColour = "0,0,0,0,19"
-			Typeface = ""
-			FontAttributes = "0"
-			TextSize = "Normal"
-			Text = "移除"
-			Depth = "2"
-			IsDefault = "0"
-			IsDisabled = "0"
-			MarginLeft = "0"
-			MarginRight = "0"
-			MarginTop = "0"
-			MarginBottom = "0"
-			AutoNavType = ""/>
-		<Element
 			CID = "233190498"
 			Type = "CheckBox"
-			X = "899"
-			Y = "134"
+			X = "893"
+			Y = "122"
 			Width = "21"
 			Height = "21"
 			Flags = "0"
@@ -783,8 +485,8 @@
 		<Element
 			CID = "233192638"
 			Type = "CheckBox"
-			X = "899"
-			Y = "162"
+			X = "893"
+			Y = "150"
 			Width = "21"
 			Height = "21"
 			Flags = "0"
@@ -803,8 +505,8 @@
 		<Element
 			CID = "233192357"
 			Type = "CheckBox"
-			X = "899"
-			Y = "192"
+			X = "893"
+			Y = "180"
 			Width = "21"
 			Height = "21"
 			Flags = "0"
@@ -823,8 +525,8 @@
 		<Element
 			CID = "233201451"
 			Type = "CheckBox"
-			X = "899"
-			Y = "222"
+			X = "893"
+			Y = "210"
 			Width = "21"
 			Height = "21"
 			Flags = "0"
@@ -841,33 +543,10 @@
 			CheckSize = "13"
 			State = "Checked"/>
 		<Element
-			CID = "233184089"
-			Type = "TextButton"
-			X = "1063"
-			Y = "76"
-			Width = "55"
-			Height = "23"
-			Flags = "0"
-			UseDataTable = "0"
-			TableName = ""
-			TextColour = "0,0,0,0,19"
-			Typeface = ""
-			FontAttributes = "0"
-			TextSize = "Normal"
-			Text = "开始导入"
-			Depth = "2"
-			IsDefault = "0"
-			IsDisabled = "0"
-			MarginLeft = "0"
-			MarginRight = "0"
-			MarginTop = "0"
-			MarginBottom = "0"
-			AutoNavType = ""/>
-		<Element
 			CID = "233184322"
 			Type = "Icon"
-			X = "1072"
-			Y = "135"
+			X = "1065"
+			Y = "123"
 			Width = "16"
 			Height = "16"
 			Flags = "3"
@@ -880,8 +559,8 @@
 		<Element
 			CID = "233192476"
 			Type = "Icon"
-			X = "1072"
-			Y = "165"
+			X = "1065"
+			Y = "153"
 			Width = "16"
 			Height = "16"
 			Flags = "3"
@@ -894,8 +573,8 @@
 		<Element
 			CID = "233204737"
 			Type = "Icon"
-			X = "1072"
-			Y = "194"
+			X = "1065"
+			Y = "182"
 			Width = "16"
 			Height = "16"
 			Flags = "3"
@@ -908,8 +587,8 @@
 		<Element
 			CID = "233179238"
 			Type = "Icon"
-			X = "1072"
-			Y = "224"
+			X = "1065"
+			Y = "212"
 			Width = "16"
 			Height = "16"
 			Flags = "3"
@@ -922,8 +601,8 @@
 		<Element
 			CID = "233201579"
 			Type = "Icon"
-			X = "1173"
-			Y = "134"
+			X = "1166"
+			Y = "122"
 			Width = "16"
 			Height = "16"
 			Flags = "3"
@@ -936,8 +615,8 @@
 		<Element
 			CID = "233177716"
 			Type = "Icon"
-			X = "1173"
-			Y = "225"
+			X = "1166"
+			Y = "213"
 			Width = "16"
 			Height = "16"
 			Flags = "3"
@@ -950,8 +629,8 @@
 		<Element
 			CID = "233199232"
 			Type = "Icon"
-			X = "1173"
-			Y = "166"
+			X = "1166"
+			Y = "154"
 			Width = "16"
 			Height = "16"
 			Flags = "3"
@@ -964,8 +643,8 @@
 		<Element
 			CID = "233194129"
 			Type = "Icon"
-			X = "1173"
-			Y = "195"
+			X = "1166"
+			Y = "183"
 			Width = "16"
 			Height = "16"
 			Flags = "3"
@@ -976,33 +655,10 @@
 			IconIndex = "0"
 			IsDisabled = "0"/>
 		<Element
-			CID = "235155308"
-			Type = "Bitmap"
-			X = "1390"
-			Y = "193"
-			Width = "21"
-			Height = "18"
-			Flags = "0"
-			UseDataTable = "0"
-			TableName = ""
-			RootPath = "$Container"
-			Filename = "..\icons\thumb.bmp"
-			Placement = "Stretch"
-			HorzAlign = "Left"
-			VertAlign = "Top"
-			ClipLeft = "0"
-			ClipRight = "0"
-			ClipTop = "0"
-			ClipBottom = "0"
-			SliceLeft = "0"
-			SliceRight = "0"
-			SliceTop = "0"
-			SliceBottom = "0"/>
-		<Element
 			CID = "1394226799"
 			Type = "Component"
-			X = "1014"
-			Y = "312"
+			X = "1000"
+			Y = "320"
 			Width = "135"
 			Height = "52"
 			Flags = "3"
@@ -1109,6 +765,214 @@
 			Fill = "None"
 			HorzAlign = "Left"
 			VertAlign = "Centre"/>
+		<Element
+			CID = "694633227"
+			Type = "Component"
+			X = "1289"
+			Y = "70"
+			Width = "256"
+			Height = "566"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "CA8FDA09-7706-42E9-855953C07ABC0A15"
+			RootPath = "$Container"
+			Filename = "Detail.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ScrollBarHorz = "Auto"
+			ScrollBarVert = "Auto"
+			StepSizeHorz = "4"
+			StepSizeVert = "4"
+			MaintainSize = "0"
+			AllowDragScrolling = "0"
+			UseInertia = "0"
+			SnapScrolling = "0"
+			AnimateSnapping = "0"/>
+		<Element
+			CID = "447177340"
+			Type = "RibbonBarButtonGroup"
+			X = "617"
+			Y = "70"
+			Width = "256"
+			Height = "22"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""/>
+		<Element
+			CID = "2140627796"
+			Type = "StaticText"
+			X = "619"
+			Y = "71"
+			Width = "100"
+			Height = "21"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			FillColour = "236,233,216,0,16"
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "选择数据类别"
+			IsDisabled = "0"
+			IsHyperlink = "0"
+			Fill = "None"
+			HorzAlign = "Left"
+			VertAlign = "Centre"/>
+		<Element
+			CID = "2140607820"
+			Type = "RibbonBarButtonGroup"
+			X = "876"
+			Y = "70"
+			Width = "410"
+			Height = "22"
+			Flags = "2"
+			UseDataTable = "0"
+			TableName = ""/>
+		<Element
+			CID = "233181941"
+			Type = "TextButton"
+			X = "884"
+			Y = "72"
+			Width = "53"
+			Height = "18"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "选择文件"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "233182255"
+			Type = "TextButton"
+			X = "944"
+			Y = "72"
+			Width = "30"
+			Height = "18"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "全选"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "233182098"
+			Type = "TextButton"
+			X = "982"
+			Y = "72"
+			Width = "30"
+			Height = "18"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "反选"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "233182565"
+			Type = "TextButton"
+			X = "1019"
+			Y = "72"
+			Width = "30"
+			Height = "18"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "移除"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "233184089"
+			Type = "TextButton"
+			X = "1056"
+			Y = "72"
+			Width = "55"
+			Height = "18"
+			Flags = "0"
+			UseDataTable = "0"
+			TableName = ""
+			TextColour = "0,0,0,0,19"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Text = "开始导入"
+			Depth = "2"
+			IsDefault = "0"
+			IsDisabled = "0"
+			MarginLeft = "0"
+			MarginRight = "0"
+			MarginTop = "0"
+			MarginBottom = "0"
+			AutoNavType = ""/>
+		<Element
+			CID = "1546474059"
+			Type = "Component"
+			X = "560"
+			Y = "-348"
+			Width = "428"
+			Height = "266"
+			Flags = "3"
+			UseDataTable = "0"
+			TableName = ""
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "26371CC9-3A40-477C-9A3BA38210800D88"
+			RootPath = "$Container"
+			Filename = "OpenDialog.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ScrollBarHorz = "Auto"
+			ScrollBarVert = "Auto"
+			StepSizeHorz = "4"
+			StepSizeVert = "4"
+			MaintainSize = "0"
+			AllowDragScrolling = "0"
+			UseInertia = "0"
+			SnapScrolling = "0"
+			AnimateSnapping = "0"/>
 	</Elements>
 	<Connections
 		CID = "2">
@@ -1134,6 +998,17 @@
 			TargetRefID = "885808320"
 			ConLineWidth = "2"
 			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1546484052"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "Modal"
+			SourceSubItemID = ""
+			SourceRefID = "233181941"
+			TargetRefID = "1546474059"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
 	</Connections>
 	<Groups
 		CID = "3">
@@ -1143,6 +1018,18 @@
 		<Group
 			CID = "235152613"
 			Elements = "235155308,232154801"/>
+		<Group
+			CID = "447154778"
+			Elements = "447177340"/>
+		<Group
+			CID = "2140612997"
+			Elements = "2140627796"/>
+		<Group
+			CID = "2140616618"
+			Elements = "2140607820"/>
+		<Group
+			CID = "1596195579"
+			Elements = "233194129,233199232,233177716,233201579,233179238,233204737,233192476,233184322,233201451,233192357,233192638,233190498,232134750"/>
 	</Groups>
 	<SelectionGroups
 		CID = "4"/>

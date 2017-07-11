@@ -1,0 +1,258 @@
+<Screen
+	CID = "1807623804"
+	AppID = "2"
+	AppVer = "4.0.107.0"
+	DocID = ""
+	HasCanvas = "1"
+	Width = "1680"
+	Height = "733"
+	NextCID = "5"
+	RepresentativeRefID = "0"
+	UseDefRepresentative = "1">
+	<Elements
+		CID = "1">
+		<Element
+			CID = "135425911"
+			Type = "RibbonBarPanel"
+			X = "641"
+			Y = "0"
+			Width = "1039"
+			Height = "78"
+			Flags = "0"/>
+		<Element
+			CID = "135406639"
+			Type = "RibbonBarGroup"
+			X = "642"
+			Y = "0"
+			Width = "125"
+			Height = "75"
+			Flags = "0"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Mirror = "0"
+			HasOptions = "1"
+			Text = "打开数据"/>
+		<Element
+			CID = "135428299"
+			Type = "IconButtonLarge"
+			X = "647"
+			Y = "5"
+			Width = "52"
+			Height = "66"
+			Flags = "0"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "70"
+			Text = "打开栅格"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "1"/>
+		<Element
+			CID = "135419037"
+			Type = "IconButtonLarge"
+			X = "703"
+			Y = "5"
+			Width = "58"
+			Height = "66"
+			Flags = "0"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "70"
+			Text = "打开矢量"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "1"/>
+		<Element
+			CID = "135421545"
+			Type = "RibbonBarGroup"
+			X = "766"
+			Y = "0"
+			Width = "118"
+			Height = "75"
+			Flags = "0"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "Normal"
+			Mirror = "0"
+			HasOptions = "1"
+			Text = "影像显示"/>
+		<Element
+			CID = "135408303"
+			Type = "IconButtonLarge"
+			X = "771"
+			Y = "5"
+			Width = "52"
+			Height = "66"
+			Flags = "0"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "70"
+			Text = "波段组合"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "1"/>
+		<Element
+			CID = "135398538"
+			Type = "Component"
+			X = "0"
+			Y = "30"
+			Width = "428"
+			Height = "266"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "8B54D631-9636-4375-AF0AC1A1801A50DE"
+			RootPath = "$Absolute"
+			Filename = "C:\Users\lyh\Desktop\X_rs\打开文件.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "135399390"
+			Type = "Bitmap"
+			X = "715"
+			Y = "11"
+			Width = "33"
+			Height = "28"
+			Flags = "0"
+			RootPath = "$Absolute"
+			Filename = "C:\Users\lyh\Desktop\X_rs\images\地面.png"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "135406693"
+			Type = "Bitmap"
+			X = "655"
+			Y = "8"
+			Width = "34"
+			Height = "30"
+			Flags = "0"
+			RootPath = "$Absolute"
+			Filename = "C:\Users\lyh\Desktop\X_rs\images\图层 (1).png"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "135401400"
+			Type = "Bitmap"
+			X = "780"
+			Y = "9"
+			Width = "34"
+			Height = "30"
+			Flags = "0"
+			RootPath = "$Absolute"
+			Filename = "C:\Users\lyh\Desktop\X_rs\images\图例.png"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+		<Element
+			CID = "135409077"
+			Type = "IconButtonLarge"
+			X = "821"
+			Y = "5"
+			Width = "58"
+			Height = "66"
+			Flags = "0"
+			Typeface = ""
+			FontAttributes = "0"
+			TextSize = "70"
+			Text = "影像拉伸"
+			Text2 = ""
+			HasDropDown = "0"
+			SplitButton = "0"
+			IsDisabled = "0"
+			Mirror = "1"/>
+		<Element
+			CID = "135400398"
+			Type = "Component"
+			X = "207"
+			Y = "337"
+			Width = "518"
+			Height = "396"
+			Flags = "3"
+			BackgroundColour = "255,255,255,0,6"
+			FileID = "1A8D4365-DFD4-4C3B-8155860BE22624B9"
+			RootPath = "$Absolute"
+			Filename = "C:\Users\lyh\Desktop\X_rs\设置.gui"
+			Background = "Transparent"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			MaintainSize = "0"/>
+		<Element
+			CID = "135397764"
+			Type = "Bitmap"
+			X = "832"
+			Y = "6"
+			Width = "35"
+			Height = "37"
+			Flags = "0"
+			RootPath = "$Absolute"
+			Filename = "C:\Users\lyh\Desktop\X_rs\images\图片.png"
+			Placement = "Stretch"
+			HorzAlign = "Left"
+			VertAlign = "Top"
+			ClipLeft = "0"
+			ClipRight = "0"
+			ClipTop = "0"
+			ClipBottom = "0"/>
+	</Elements>
+	<Connections
+		CID = "2">
+		<Connection
+			CID = "1534724052"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "Modal"
+			SourceSubItemID = "Command"
+			SourceRefID = "135428299"
+			TargetRefID = "135398538"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+		<Connection
+			CID = "1534736443"
+			Layer = "DesignElements"
+			Trigger = "LeftClick"
+			Type = "Navigation"
+			SubType = "Modal"
+			SourceSubItemID = "Command"
+			SourceRefID = "135419037"
+			TargetRefID = "135398538"
+			ConLineWidth = "2"
+			ConLineColour = "0,0,0,0,0"/>
+	</Connections>
+	<SelectionGroups
+		CID = "3"/>
+	<Notes
+		CID = "4">
+		<Note
+			CID = "1807635478"
+			Name = "Description"
+			NextCID = "2">
+			<Text
+				CID = "1">
+				
+			</Text>
+		</Note>
+	</Notes>
+</Screen>

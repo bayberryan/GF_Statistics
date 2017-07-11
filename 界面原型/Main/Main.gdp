@@ -1,6 +1,6 @@
 <Project
 	CID = "1"
-	NextCID = "3">
+	NextCID = "4">
 	<Options
 		CID = "1"
 		UseProjectVisualStyle = "0"
@@ -30,4 +30,9 @@
 	</Options>
 	<Links
 		CID = "2"/>
+	<MainDesign
+		CID = "3"
+		FileID = "3729F433-AE30-4688-BB477D7A5FD5706D"
+		RootPath = "$Container"
+		RelativePathname = "DBM_V2\Main.gui"/>
 </Project>

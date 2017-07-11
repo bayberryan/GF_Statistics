@@ -1,0 +1,668 @@
+<Catalogue
+	CID = "1"
+	NextCID = "2">
+	<Files
+		CID = "1">
+		<FileInfo
+			ID = "02895B2E-864C-4408-A5DF73A56F838E66"
+			RelativePath = "image\ROI1.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\ROI1.bmp"/>
+		<FileInfo
+			ID = "0512450B-95F2-496B-AA012D97C15CA5FC"
+			RelativePath = "image\6-分类2.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\6-分类2.jpg"/>
+		<FileInfo
+			ID = "07E9C610-5C32-4514-BC1479EFE95F7C7A"
+			RelativePath = "image\分区数.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\分区数.png"/>
+		<FileInfo
+			ID = "0C884141-1725-42F9-9D39724ACAB50AEE"
+			RelativePath = "image\地球.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\地球.png"/>
+		<FileInfo
+			ID = "0CA0E516-89BA-40BF-95DD18D42DF7B0A3"
+			RelativePath = "数据准备\镶嵌.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "数据准备\镶嵌.gui"/>
+		<FileInfo
+			ID = "0F90362F-08D1-4F7A-9A27B1A8B9EE6A1E"
+			RelativePath = "image\面向对象1.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\面向对象1.bmp"/>
+		<FileInfo
+			ID = "0FE1E3F1-B001-40C9-B4AC947C03722FCC"
+			RelativePath = "分类后处理\结果统计.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "分类后处理\结果统计.gui"/>
+		<FileInfo
+			ID = "11B3F042-A36A-4627-B32FF852C15CE00B"
+			RelativePath = "高光谱影像分类.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "高光谱影像分类.gui"/>
+		<FileInfo
+			ID = "125267A6-5697-4E9B-882D6ED6BA5413FB"
+			RelativePath = "image\图片.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\图片.png"/>
+		<FileInfo
+			ID = "125AAF9C-AEEA-4423-ACD1DD8E626FB065"
+			RelativePath = "image\3-镶嵌.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\3-镶嵌.jpg"/>
+		<FileInfo
+			ID = "126932F4-72EE-4CE6-85E451A6DDB64E13"
+			RelativePath = "image\新窗口(1).png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\新窗口(1).png"/>
+		<FileInfo
+			ID = "152079FB-532C-47CC-A652670D43387918"
+			RelativePath = "image\镶嵌3.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\镶嵌3.png"/>
+		<FileInfo
+			ID = "156959A0-4764-42BF-8B9FD56D9095783C"
+			RelativePath = "image\视频.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\视频.png"/>
+		<FileInfo
+			ID = "1645AEFE-2CD9-4EF9-B424A7E81170030A"
+			RelativePath = "image\分离度检验结果.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\分离度检验结果.bmp"/>
+		<FileInfo
+			ID = "16A0FF4E-6C88-4CE5-AFF491A49D3112B1"
+			RelativePath = "影像分类\多期影像叠加分析帮助.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "影像分类\多期影像叠加分析帮助.gui"/>
+		<FileInfo
+			ID = "18B0CD6E-C8E5-4255-8B856DEBDCBD850D"
+			RelativePath = "image\QQ截图20170704191136.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\QQ截图20170704191136.png"/>
+		<FileInfo
+			ID = "19AD1B64-4A04-4726-A7DEEBE631ECC19D"
+			RelativePath = "image\易康面向对象.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\易康面向对象.bmp"/>
+		<FileInfo
+			ID = "1F6698AD-CC9F-4726-A73758D64A024377"
+			RelativePath = "单期影像分类.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "单期影像分类.gui"/>
+		<FileInfo
+			ID = "1F6E8305-A039-4572-963B49B16982996C"
+			RelativePath = "image\大数据(1).png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\大数据(1).png"/>
+		<FileInfo
+			ID = "229359C1-DDF5-48F8-83DAD7B4EFA31510"
+			RelativePath = "image\打开1.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\打开1.png"/>
+		<FileInfo
+			ID = "23FAB11B-2DEA-4AE5-93751BC6D576081E"
+			RelativePath = "image\8-分类1.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\8-分类1.jpg"/>
+		<FileInfo
+			ID = "28DA959F-C598-44E9-A7261846314B4706"
+			RelativePath = "开始\打开.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "开始\打开.gui"/>
+		<FileInfo
+			ID = "31EE7F32-315D-4CCA-809F014EC2D763FE"
+			RelativePath = "image\开始对话框.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\开始对话框.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "33833382-9F5C-4E3C-8B572FC46CDF17FD"
+			RelativePath = "image\易康面向对象3.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\易康面向对象3.bmp"/>
+		<FileInfo
+			ID = "338A375F-37D3-4E4F-9AAF936BE7087C39"
+			RelativePath = "image\雷达.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\雷达.png"/>
+		<FileInfo
+			ID = "35709C2F-4DC5-49AC-A6A9A28E602BD7E4"
+			RelativePath = "image\镶嵌2.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\镶嵌2.png"/>
+		<FileInfo
+			ID = "39386AC0-096C-4F14-97C017148501C90F"
+			RelativePath = "image\4-训练样本.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\4-训练样本.jpg"/>
+		<FileInfo
+			ID = "3B54072D-2285-4BAD-A3C9FDEEAB15A929"
+			RelativePath = "image\卷帘工具(1).png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\卷帘工具(1).png"/>
+		<FileInfo
+			ID = "3E809F9E-DE16-468F-B4676E2EC0429FA2"
+			RelativePath = "image\调节条.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\调节条.bmp"/>
+		<FileInfo
+			ID = "425D6E3E-575E-4641-AF72CBACC374EDF6"
+			RelativePath = "多期影像分类1.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "多期影像分类1.gui"/>
+		<FileInfo
+			ID = "42FF0F81-6425-4D1D-888B7291E4B726A1"
+			RelativePath = "影像分类\多期影像模式识别帮助.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "影像分类\多期影像模式识别帮助.gui"/>
+		<FileInfo
+			ID = "46E17E39-E087-4F93-86782F5E38743FE0"
+			RelativePath = "image\ROI.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\ROI.bmp"/>
+		<FileInfo
+			ID = "47A55BD3-A794-4BFD-A4C674EAF15B7375"
+			RelativePath = "image\云.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\云.png"/>
+		<FileInfo
+			ID = "47D0F948-CAAA-4E6A-9933E5BEC547FF03"
+			RelativePath = "image\分类.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\分类.bmp"/>
+		<FileInfo
+			ID = "49A79348-F574-4E4D-955C4F9EE57362D2"
+			RelativePath = "image\叠加3.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\叠加3.png"/>
+		<FileInfo
+			ID = "49AA882F-B555-438D-9FC90BBF619646A6"
+			RelativePath = "开始\开始对话框.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "开始\开始对话框.gui"/>
+		<FileInfo
+			ID = "49B53016-20D5-4121-AC7C7D793434EAF2"
+			RelativePath = "image\神经网络.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\神经网络.png"/>
+		<FileInfo
+			ID = "4E26D1B1-D2D7-4659-81BDEF14C8ED3B42"
+			RelativePath = "image\大数据魔方.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\大数据魔方.png"/>
+		<FileInfo
+			ID = "4E52C7CD-65DF-4E17-A5BABDCA393BE70B"
+			RelativePath = "image\分离度.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\分离度.bmp"/>
+		<FileInfo
+			ID = "503799E1-7BB6-4ECA-8F549CCCA0A5A0FB"
+			RelativePath = "image\SVM.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\SVM.png"/>
+		<FileInfo
+			ID = "51B5C330-750F-4D1D-8EF9FE97B49B0846"
+			RelativePath = "去云.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "去云.gui"/>
+		<FileInfo
+			ID = "51F41625-2088-4D3C-A1E3E666326509C1"
+			RelativePath = "image\拼接照片.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\拼接照片.png"/>
+		<FileInfo
+			ID = "52795248-D2F9-4FF3-8623959A3BB5BE45"
+			RelativePath = "分离度检验.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "分离度检验.gui"/>
+		<FileInfo
+			ID = "56021FDB-36EA-4ADA-A535973962AD76B7"
+			RelativePath = "image\面向对象3.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\面向对象3.png"/>
+		<FileInfo
+			ID = "56A766EA-9D88-4DAD-BD5A3A9292C14872"
+			RelativePath = "主界面.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "主界面.gui"/>
+		<FileInfo
+			ID = "57DF0D17-3BAE-4D5C-BA174D5B54B7D460"
+			RelativePath = "image\大数据.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\大数据.png"/>
+		<FileInfo
+			ID = "58C24572-2CCA-4BE6-B6BB6877954A9014"
+			RelativePath = "image\高光谱4.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\高光谱4.png"/>
+		<FileInfo
+			ID = "58EE3B44-5942-4473-BB2442FF98E30A9A"
+			RelativePath = "多期影像分类.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "多期影像分类.gui"/>
+		<FileInfo
+			ID = "59A278CD-AF74-47FF-80FA4EDD0CD76326"
+			RelativePath = "多期影像分类3.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "多期影像分类3.gui"/>
+		<FileInfo
+			ID = "5A2B51B6-50DC-4CBA-B8C4D92EEC4F2926"
+			RelativePath = "image\多层.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\多层.png"/>
+		<FileInfo
+			ID = "5AF218C5-4635-4B56-8DDC633AB482255A"
+			RelativePath = "数据准备\样本分析.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "数据准备\样本分析.gui"/>
+		<FileInfo
+			ID = "61EDD4DC-08AF-4F7A-BF69FD3C51CA1F83"
+			RelativePath = "开始对话框.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "开始对话框.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "6214E67F-EB66-4BB0-94A1894263D62ABE"
+			RelativePath = "ROI.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "ROI.gui"/>
+		<FileInfo
+			ID = "64426AA3-EE3A-40CE-92470C7E56AC9A74"
+			RelativePath = "image\分离度检验.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\分离度检验.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "66162F79-CF08-4223-895CB576F0DC7A84"
+			RelativePath = "image\ROI3.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\ROI3.bmp"/>
+		<FileInfo
+			ID = "69CA41C0-F06F-48F6-BE69D2612998CD48"
+			RelativePath = "image\高光谱1.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\高光谱1.png"/>
+		<FileInfo
+			ID = "69E012A0-CF44-4A54-A329BFB002869F1A"
+			RelativePath = "单期影像分类2.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "单期影像分类2.gui"/>
+		<FileInfo
+			ID = "6B0E4292-DF53-4AAB-BA9FF1A474CA8860"
+			RelativePath = "中高分分类.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "中高分分类.gui"/>
+		<FileInfo
+			ID = "6C400B24-1B1B-4461-A413899CDF022386"
+			RelativePath = "image\易康面向对象-合并.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\易康面向对象-合并.bmp"/>
+		<FileInfo
+			ID = "6D523AA8-A76B-4B68-BAE70FD14353ED11"
+			RelativePath = "image\多点.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\多点.png"/>
+		<FileInfo
+			ID = "6EB391CE-886A-4288-881CB9CA2FB70D43"
+			RelativePath = "image\地球 (1).ico"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\地球 (1).ico"/>
+		<FileInfo
+			ID = "700607B4-B89B-4D27-95574D261C1AD573"
+			RelativePath = "主界面\显示结果.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "主界面\显示结果.gui"/>
+		<FileInfo
+			ID = "70877985-3BB8-433A-91CE9537A640CACB"
+			RelativePath = "image\QQ截图20170704191800.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\QQ截图20170704191800.png"/>
+		<FileInfo
+			ID = "70E4334F-1197-490C-B0D78CBCA2138726"
+			RelativePath = "image\5-训练样本2.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\5-训练样本2.jpg"/>
+		<FileInfo
+			ID = "71ADD497-2B5E-4CBD-950FFEB044A64717"
+			RelativePath = "image\地图-缓冲区分析 (1).png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\地图-缓冲区分析 (1).png"/>
+		<FileInfo
+			ID = "735276D5-DA95-41BB-BD1C7CE89C0CD9C3"
+			RelativePath = "image\绘制多边形.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\绘制多边形.png"/>
+		<FileInfo
+			ID = "7416C117-444C-4362-8AEA68457D9A3927"
+			RelativePath = "单景影像分类3.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "单景影像分类3.gui"/>
+		<FileInfo
+			ID = "788D71CC-E8EB-43CE-9A7508946122EBCF"
+			RelativePath = "云检测.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "云检测.gui"/>
+		<FileInfo
+			ID = "7BB1EB9A-C1C3-404C-AE1DA9B4440C464D"
+			RelativePath = "image\下一步.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\下一步.png"/>
+		<FileInfo
+			ID = "83E39A80-26B5-4024-9FA3269ED3C24E3A"
+			RelativePath = "影像分类\多期影像模式识别.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "影像分类\多期影像模式识别.gui"/>
+		<FileInfo
+			ID = "88A5A446-90B0-4E1B-B87B76E913091C41"
+			RelativePath = "image\计算器.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\计算器.png"/>
+		<FileInfo
+			ID = "8D0269D8-99EB-44D4-9FA2A5D8A1D1CD21"
+			RelativePath = "image\10-精度验证.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\10-精度验证.png"/>
+		<FileInfo
+			ID = "9054B7DE-1F71-444A-9A5C43E5C84187A9"
+			RelativePath = "影像分类\重采样.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "影像分类\重采样.gui"/>
+		<FileInfo
+			ID = "93C43440-412D-448A-9D1CA27A1A9B23F3"
+			RelativePath = "进度条.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "进度条.gui"/>
+		<FileInfo
+			ID = "9686E73F-6F43-488A-B5C7F59497B64BAD"
+			RelativePath = "image\大数据与人工智能.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\大数据与人工智能.png"/>
+		<FileInfo
+			ID = "96D939D2-6D52-40F7-97D27724871BA43D"
+			RelativePath = "image\方块(2).png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\方块(2).png"/>
+		<FileInfo
+			ID = "97FA473D-2062-47CB-8B226DE20C30DE8D"
+			RelativePath = "雷达-光学分割.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "雷达-光学分割.gui"/>
+		<FileInfo
+			ID = "98961BC7-F1D2-4A61-83E5419A9E21FCF3"
+			RelativePath = "image\ROI2.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\ROI2.bmp"/>
+		<FileInfo
+			ID = "9CDA2B4E-8FFF-49D5-8E9C1ACAD539E5B9"
+			RelativePath = "精度验证\精度验证.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "精度验证\精度验证.gui"/>
+		<FileInfo
+			ID = "9CF940A4-667F-496D-BA20BCACCA858CCD"
+			RelativePath = "MNF降维2.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "MNF降维2.gui"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "9D17BB92-C58E-4A09-9F322D48D9F34E78"
+			RelativePath = "image\镶嵌1.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\镶嵌1.png"/>
+		<FileInfo
+			ID = "9E50B221-7477-45D3-89BFEC13997D5EE2"
+			RelativePath = "image\Clip008.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\Clip008.png"/>
+		<FileInfo
+			ID = "9FD7F402-FFDB-43FE-A4D21E7A33AC0961"
+			RelativePath = "image\111.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\111.bmp"
+			IsDeleted = "1"/>
+		<FileInfo
+			ID = "A35AB6B4-8AF8-441B-A425F20DDEF542C9"
+			RelativePath = "分类后处理\分类后校正.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "分类后处理\分类后校正.gui"/>
+		<FileInfo
+			ID = "A432D872-1AA3-44C8-81CA814C4795B4CF"
+			RelativePath = "image\分离1.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\分离1.png"/>
+		<FileInfo
+			ID = "A60CB371-DC6D-4234-8342459D9F2A088A"
+			RelativePath = "重采样.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "重采样.gui"/>
+		<FileInfo
+			ID = "A790E6F5-84AC-4890-A069DAF13293B30E"
+			RelativePath = "image\加.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\加.png"/>
+		<FileInfo
+			ID = "A7E75E5B-CB11-4F10-9E53649ED915F4ED"
+			RelativePath = "image\9-分类统计.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\9-分类统计.jpg"/>
+		<FileInfo
+			ID = "ADD9CC9C-FF92-4D80-B86A7F6128BF0E21"
+			RelativePath = "image\保存.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\保存.png"/>
+		<FileInfo
+			ID = "AE0EAB1A-EE64-4B00-AB22610324ECE014"
+			RelativePath = "面向对象2.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "面向对象2.gui"/>
+		<FileInfo
+			ID = "B28A2B4C-898F-459C-B18AF656AC4A932E"
+			RelativePath = "多期影像分类2.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "多期影像分类2.gui"/>
+		<FileInfo
+			ID = "B980DBBE-C6E8-4084-888F41A6042B755B"
+			RelativePath = "image\高光谱2.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\高光谱2.png"/>
+		<FileInfo
+			ID = "BB22450B-E542-48CF-BE19B4FB1E1ED89D"
+			RelativePath = "image\QQ截图20170705165617.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\QQ截图20170705165617.png"/>
+		<FileInfo
+			ID = "C1331E51-D5E1-432A-B919BC5C596DEFF2"
+			RelativePath = "image\上一步.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\上一步.png"/>
+		<FileInfo
+			ID = "C48C11DF-B3D9-4AF1-8ACD0AAA05CB6737"
+			RelativePath = "image\打开.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\打开.png"/>
+		<FileInfo
+			ID = "C53E190E-BB21-489F-B927A4190980F22D"
+			RelativePath = "image\裁剪.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\裁剪.png"/>
+		<FileInfo
+			ID = "C5A0F447-D3FF-4942-82D26C4FB3646857"
+			RelativePath = "image\重采样.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\重采样.png"/>
+		<FileInfo
+			ID = "C7863D12-7099-4764-8EACE951E12F4A43"
+			RelativePath = "开始\保存.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "开始\保存.gui"/>
+		<FileInfo
+			ID = "CA1CCCD7-5550-4488-A6703F1F1D784C2C"
+			RelativePath = "多期影像模式判断.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "多期影像模式判断.gui"/>
+		<FileInfo
+			ID = "CAAE481C-AF8C-492F-84B215D0F2DBB787"
+			RelativePath = "image\关于.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\关于.png"/>
+		<FileInfo
+			ID = "CBA20448-412F-43F1-92E67AB29B52A39C"
+			RelativePath = "image\icon_eegymz6ai6adzpvi.zip"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\icon_eegymz6ai6adzpvi.zip"/>
+		<FileInfo
+			ID = "CBDEDE11-E9EB-4D66-B291D6261C385ABB"
+			RelativePath = "裁剪.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "裁剪.gui"/>
+		<FileInfo
+			ID = "CF565CCD-0182-4893-BCA45492EE55580C"
+			RelativePath = "面向对象.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "面向对象.gui"/>
+		<FileInfo
+			ID = "D3DD8025-5466-45C0-89C849B14D2D541C"
+			RelativePath = "数据准备\ROI选取.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "数据准备\ROI选取.gui"/>
+		<FileInfo
+			ID = "D4E86445-74D8-48C8-8FE7B226CF94FFB2"
+			RelativePath = "MNF降维.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "MNF降维.gui"/>
+		<FileInfo
+			ID = "D5A7E3F2-4F22-4BCF-969F3FDFD1F39962"
+			RelativePath = "面向对象4.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "面向对象4.gui"/>
+		<FileInfo
+			ID = "D6FDB4AA-5D3D-41B5-A430FA24F0F50AE0"
+			RelativePath = "MNF-波段子集.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "MNF-波段子集.gui"/>
+		<FileInfo
+			ID = "D7691125-D2A0-45BE-AAA8A812C09F2017"
+			RelativePath = "面向对象3.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "面向对象3.gui"/>
+		<FileInfo
+			ID = "D80812B4-D010-4347-80CFD211B62190BF"
+			RelativePath = "image\双窗口显示.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\双窗口显示.bmp"/>
+		<FileInfo
+			ID = "DDCA48A4-FEFA-4A0B-BB9768EF9398D3EF"
+			RelativePath = "image\多图.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\多图.png"/>
+		<FileInfo
+			ID = "DEB227B3-2A1D-4BAB-B63DA4EC40A23996"
+			RelativePath = "image\叠加1.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\叠加1.png"/>
+		<FileInfo
+			ID = "E32D6B79-878F-4EB9-A57B22AADB8B44A8"
+			RelativePath = "image\叠加2.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\叠加2.png"/>
+		<FileInfo
+			ID = "E394C15A-3479-42B3-84D0E596F8AC3F51"
+			RelativePath = "影像分类\多期影像叠加分析.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "影像分类\多期影像叠加分析.gui"/>
+		<FileInfo
+			ID = "E839A12D-DEDE-4EF8-9EE9BA36F7A99989"
+			RelativePath = "分窗显示.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "分窗显示.gui"/>
+		<FileInfo
+			ID = "EAE29CC4-316C-41A0-BEE91B6C55B404E1"
+			RelativePath = "image\错.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\错.png"/>
+		<FileInfo
+			ID = "EC4DD83C-9A48-4E33-9BD67D877F0137B7"
+			RelativePath = "image\面向对象4.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\面向对象4.png"/>
+		<FileInfo
+			ID = "ED095665-AC6B-4906-B1DE5802CFB226A9"
+			RelativePath = "image\高光谱3.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\高光谱3.png"/>
+		<FileInfo
+			ID = "EDA2B0AA-FD11-48BB-AC6021EE48524B78"
+			RelativePath = "image\7-图例.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\7-图例.jpg"/>
+		<FileInfo
+			ID = "F016E517-D93C-4ED7-B15AD8D34C836A42"
+			RelativePath = "分类后处理\分类后校正统计.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "分类后处理\分类后校正统计.gui"/>
+		<FileInfo
+			ID = "F17DE6C5-D106-41ED-8B86A3C6E7F07DEC"
+			RelativePath = "多光谱影像分类.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "多光谱影像分类.gui"/>
+		<FileInfo
+			ID = "F1879F35-4F9D-4C3B-AD6E3598026026EA"
+			RelativePath = "文件.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "文件.gui"/>
+		<FileInfo
+			ID = "F265DED1-BC76-4901-A5463E4F32009225"
+			RelativePath = "数据准备.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "数据准备.gui"/>
+		<FileInfo
+			ID = "F4D9928A-8D34-4896-B79FD353294E9AFF"
+			RelativePath = "image\1-原始影像.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\1-原始影像.jpg"/>
+		<FileInfo
+			ID = "F55027BF-441C-4246-9C0045BD52C80599"
+			RelativePath = "数据准备\裁剪.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "数据准备\裁剪.gui"/>
+		<FileInfo
+			ID = "F605488F-6F25-4A0B-A5CCCC5BE197C1A1"
+			RelativePath = "image\易康面向对象2.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\易康面向对象2.bmp"/>
+		<FileInfo
+			ID = "F7F53D71-9415-454A-B5AEC0AA87531D64"
+			RelativePath = "image\11-初始界面.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\11-初始界面.png"/>
+		<FileInfo
+			ID = "F847BEB0-13A7-4B50-BFAD3D9955C8B9DE"
+			RelativePath = "image\面向对象2.bmp"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\面向对象2.bmp"/>
+		<FileInfo
+			ID = "F9DE6E76-CE76-462F-9FECEC6B72E10DDF"
+			RelativePath = "影像分类\神经网络分类.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "影像分类\神经网络分类.gui"/>
+		<FileInfo
+			ID = "FD29ECAC-2218-4A36-964278CD0C8DC4C4"
+			RelativePath = "image\高光谱5.png"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\高光谱5.png"/>
+		<FileInfo
+			ID = "FD8A5D0B-379F-4348-8040205E6A85F34C"
+			RelativePath = "image\2-裁剪影像.jpg"
+			OriginalRoot = "$Project"
+			OriginalPath = "image\2-裁剪影像.jpg"/>
+		<FileInfo
+			ID = "FD9D3A77-AC50-43CB-A6B853E918200D7E"
+			RelativePath = "影像分类\多期影像叠加分析2.gui"
+			OriginalRoot = "$Project"
+			OriginalPath = "影像分类\多期影像叠加分析2.gui"
+			IsDeleted = "1"/>
+	</Files>
+</Catalogue>

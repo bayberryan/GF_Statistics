@@ -1,0 +1,19 @@
+<Workspace
+	CID = "1"
+	NextCID = "2"
+	IconCategory = "Documents">
+	<OpenFiles
+		CID = "1"
+		LastActive = "1">
+		<File
+			FileID = "56A766EA-9D88-4DAD-BD5A3A9292C14872"
+			RootPath = "$Container"
+			RelativePathname = "主界面.gui"
+			ViewSettings = ""/>
+		<File
+			FileID = "49AA882F-B555-438D-9FC90BBF619646A6"
+			RootPath = "$Container"
+			RelativePathname = "开始\开始对话框.gui"
+			ViewSettings = ""/>
+	</OpenFiles>
+</Workspace>
